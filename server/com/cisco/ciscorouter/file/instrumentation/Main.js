@@ -170,8 +170,8 @@ function Configuration() {
 		if(!shouldRun()){
 			return undefined;
 		}
-		createElement({"Name" : "UIM_CiscoInterface." + result[index].Index,
-			           "DisplayName" : "UIM_CiscoInterface." + result[index].Index,
+		createElement({"Name" : "CiscoInterface." + result[index].Index,
+			           "DisplayName" : "CiscoInterface." + result[index].Index,
 		           	   "ElementType" : "Grouping",
 			           "CustomClassName" : "UIM_CiscoInterface"
 				     });
@@ -229,7 +229,7 @@ function TrapParser(trapId, varbinds, alarmId) {
 		ifTrap.IfOperStatus = ifOperStatus;
 		
 		if (ifTrap.IfAdminStatus == 1 && ifTrap.IfOperStatus == 2) {
-			functionSendAlarm(ifTrap);
+			functionSendAlarm(ifTrap,state);
 		}
 	} else {
 		unknownTrapAlarm(trapId,varbinds);

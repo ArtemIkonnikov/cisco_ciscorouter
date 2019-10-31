@@ -10,10 +10,10 @@
       <qualifiers name="Description" type="string" value="A textual representation of the SystemUpTime field."/>
       <qualifiers name="Write" type="boolean" value="false"/>
     </properties>
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_GenericNetworkElement"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#UIM_GenericNetworkElement"/>
   </awi:ClassDefinition>
   <awi:ClassDefinition name="UIM_CiscoRouterMgmtInterface">
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_SNMPDeviceMgmtInterface"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#UIM_SNMPDeviceMgmtInterface"/>
     <methods name="SynchronizePerformance" type="string">
       <qualifiers name="Description" type="string" value="This command starts the polling of the device in order to update performance values"/>
     </methods>
@@ -22,7 +22,7 @@
     <properties defaultValue="Ciscorouter" name="CustomAgentName" type="string"/>
     <properties defaultValue="Cisco" name="CustomAgentVendor" type="string"/>
     <qualifiers name="UmlPackagePath" type="string" value="classes::cim"/>
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#HNSD_GenericProvider"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#HNSD_GenericProvider"/>
   </awi:ClassDefinition>
   <awi:ClassDefinition name="UIM_CiscoRouterInstComponent">
     <properties name="CustomAgentHome" type="string"/>
@@ -35,7 +35,7 @@
       <qualifiers name="Write" type="boolean" value="true"/>
     </properties>
     <qualifiers name="UmlPackagePath" type="string" value="components"/>
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_SNMPDeviceInstComponent"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#UIM_SNMPDeviceInstComponent"/>
   </awi:ClassDefinition>
   <awi:ClassDefinition name="UIM_CiscoRouterMonInterface">
     <properties defaultValue="Ciscorouter" name="CustomAgentName" type="string">
@@ -62,7 +62,7 @@
       <qualifiers name="ValueMap" type="string" value="Never;15 minutes;30 minutes;1 hours;6 hours;12 hours;Daily;Weekly - Sunday;Weekly - Monday;Weekly - Tuesday;Weekly - Wednesday;Weekly - Thursday;Weekly - Friday;Weekly - Saturday;Monthly"/>
       <qualifiers name="Values" type="string" value="Never;15 minutes;30 minutes;1 hours;6 hours;12 hours;Daily;Weekly - Sunday;Weekly - Monday;Weekly - Tuesday;Weekly - Wednesday;Weekly - Thursday;Weekly - Friday;Weekly - Saturday;Monthly"/>
     </properties>
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_AALGenericSNMPDeviceMonInterface"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#UIM_AALGenericSNMPDeviceMonInterface"/>
   </awi:ClassDefinition>
   <awi:ClassDefinition name="UIM_CiscoInterface">
     <properties defaultValue="" name="AdminStatus" type="uint16">
@@ -145,6 +145,6 @@
       <qualifiers name="Description" type="string" value="Input property description"/>
       <qualifiers name="Write" type="boolean" value="false"/>
     </properties>
-    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_GenericInterface"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_1343361560178769068.lib#UIM_GenericInterface"/>
   </awi:ClassDefinition>
 </xmi:XMI>
