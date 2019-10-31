@@ -243,6 +243,7 @@ function functionSendAlarm(alarmObject) {
 	
 	var adminMsg = ["", "Up", "Down", "Testing"];
 	var stateVar= [1, 3, 1, 1, 1, 1, 1, 1];
+	var perceivedSeverity= [1, 2, 5, 3, 3, 3, 3, 3];
 
 		sendAlarm({
 			"Clearable": true,
@@ -253,7 +254,7 @@ function functionSendAlarm(alarmObject) {
 			"DisplayName": "Interface Alarm",
 			"Description": "Interface " + adminMsg[alarmObject['IfAdminStatus']] + " alarm(AdminStatus)",
 			"Caption": "Interface_" + alarmObject['IfIndex'] + " operStatus: " + alarmObject['IfOperStatus'],
-			"PerceivedSeverity": 5,					
+			"PerceivedSeverity": perceivedSeverity[alarmObject['IfOperStatus']],
 			"ManagedObject": "Interface_" + alarmObject['IfIndex'],
 			"Name": "Interface_Down"
 		});
