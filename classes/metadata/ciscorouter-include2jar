@@ -1,0 +1,12 @@
+hbm/UIM_CiscoInterface.hbm.xml
+**/UIM_CiscoInterface.class
+hbm/UIM_CiscoRouterNetworkElement.hbm.xml
+**/UIM_CiscoRouterNetworkElement.class
+hbm/HNSD_CiscoRouterProvider.hbm.xml
+**/HNSD_CiscoRouterProvider.class
+hbm/UIM_CiscoRouterMonInterface.hbm.xml
+**/UIM_CiscoRouterMonInterface.class
+hbm/UIM_CiscoRouterMgmtInterface.hbm.xml
+**/UIM_CiscoRouterMgmtInterface.class
+hbm/UIM_CiscoRouterInstComponent.hbm.xml
+**/UIM_CiscoRouterInstComponent.class

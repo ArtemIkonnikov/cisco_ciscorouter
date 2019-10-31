@@ -1,0 +1,422 @@
+2019-10-09 17:47:48,449 [main] - args 0 C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 17:47:48,450 [main] - args 1 127.0.0.1
+2019-10-09 17:47:48,450 [main] - args 2 161
+2019-10-09 17:47:48,450 [main] - args 3 public
+2019-10-09 17:47:48,450 [main] - args 4 public
+2019-10-09 17:47:48,450 [main] - args 5 162
+2019-10-09 17:47:48,450 [main] - args 6 0
+2019-10-09 17:47:48,450 [main] - args 7 com.cisco.ciscorouter.file.instrumentation.InstrumentationManager
+2019-10-09 17:47:48,451 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/
+2019-10-09 17:47:48,451 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/server/
+2019-10-09 17:47:48,451 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/classes/server/
+2019-10-09 17:47:48,451 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agentsdk.jar
+2019-10-09 17:47:48,451 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/res/config/log4j.xml
+2019-10-09 17:47:48,451 [main] - /C:/XADE/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar
+2019-10-09 17:47:48,451 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.transport_1.0.200.v201402051800.jar
+2019-10-09 17:47:48,451 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.400.v201402051800.jar
+2019-10-09 17:47:48,451 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino_1.0.300.v201402051800.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agents.jssimulator.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commands.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-collections.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-io.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-lang.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-logging.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-net.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/dom4j.jar
+2019-10-09 17:47:48,452 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/equinox_common.jar
+2019-10-09 17:47:48,453 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/httpclient-osgi.jar
+2019-10-09 17:47:48,453 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-hibernate3.jar
+2019-10-09 17:47:48,453 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-spring2.jar
+2019-10-09 17:47:48,453 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-springsecurity2.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jface.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/js.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jsch.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jython-standalone.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/log4j.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.osgi.jar
+2019-10-09 17:47:48,454 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.debugger.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.transport.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/poi.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/snmp4j.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-beans.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-context.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-core.jar
+2019-10-09 17:47:48,455 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-core.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-io.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/workbench.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/agentruntimeserver.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/common.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/core.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/integration.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/legacycommon.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/metadata.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/schema-generation.jar
+2019-10-09 17:47:48,456 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/server.jar
+2019-10-09 17:47:48,457 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_metadata.jar
+2019-10-09 17:47:48,457 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_server.jar
+2019-10-09 17:47:48,462 [main] - Script = C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js, ip = 127.0.0.1:161, read= public, write=public, debugport 0
+2019-10-09 17:47:48,496 [main] - invoke(actionName = setAgentService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-09 17:47:48,496 [main] - invoke(actionName = setElementService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-09 17:47:48,497 [main] - invoke(actionName = setAlertAccessor, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-09 17:47:48,567 [main] - put(key = SnmpHandler, value = com.netboss.adt.ide.eclipse.simulation.js.SimulatorSnmpHandler@11028347)
+2019-10-09 17:47:48,568 [main] - put(key = summAlarmOidsDict, value = {})
+2019-10-09 17:47:48,569 [main] - put(key = configDict, value = {})
+2019-10-09 17:47:48,569 [main] - put(key = attributeDict, value = {})
+2019-10-09 17:47:48,569 [main] - put(key = alarmDict, value = {})
+2019-10-09 17:47:48,569 [main] - put(key = alarmOidsDict, value = {})
+2019-10-09 17:47:48,569 [main] - put(key = InstrumentationManager, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager@14899482)
+2019-10-09 17:47:48,570 [main] - put(key = SystemHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-10-09 17:47:48,570 [main] - put(key = IndicationHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-10-09 17:47:48,570 [main] - put(key = Logger, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$Logger@2aae9190)
+2019-10-09 17:47:49,576 [main] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:47:49,577 [main] - ERROR::Secondary attribute = IPAddress
+2019-10-09 17:47:49,579 [main] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:47:49,581 [main] - get(key = Logger)
+2019-10-09 17:47:49,581 [main] - get(key = ContextHelper)
+2019-10-09 17:47:49,582 [main] - get(key = IndicationHandler)
+2019-10-09 17:47:49,582 [main] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@7b1d7fff)
+2019-10-09 17:47:49,584 [main] - get(key = Logger)
+2019-10-09 17:47:49,584 [main] - get(key = ContextHelper)
+2019-10-09 17:47:49,584 [main] - get(key = IndicationHandler)
+2019-10-09 17:47:49,586 [main] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@6bc168e5)
+2019-10-09 17:47:49,588 [main] - get(key = Logger)
+2019-10-09 17:47:49,589 [main] - get(key = ContextHelper)
+2019-10-09 17:47:49,589 [main] - get(key = IndicationHandler)
+2019-10-09 17:47:49,589 [main] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@136432db)
+2019-10-09 17:47:49,590 [main] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 17:47:49,645 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:47:49,647 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:47:49,653 [main] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-10-09 17:47:49,655 [main] - current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-10-09 17:47:49,974 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:47:49,975 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:47:49,981 [main] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-10-09 17:47:49,983 [main] - ERROR:DEBUG:current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-10-09 17:47:50,032 [main] - Failed to create a trap listener on port .
+java.net.BindException: Address already in use: Cannot bind
+	at java.net.DualStackPlainDatagramSocketImpl.socketBind(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.bind0(DualStackPlainDatagramSocketImpl.java:84)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:93)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:242)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:299)
+	at org.snmp4j.transport.DefaultUdpTransportMapping.<init>(DefaultUdpTransportMapping.java:101)
+	at com.netboss.adt.ide.eclipse.simulation.js.TrapReceiver.<init>(TrapReceiver.java:150)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.initAndStartGUI(JsSimulationManager.java:766)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.<init>(JsSimulationManager.java:638)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.main(JsSimulationManager.java:432)
+2019-10-09 17:47:50,037 [Thread-1] - get(key = SnmpHandler)
+2019-10-09 17:47:50,037 [Thread-1] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:47:50,039 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:47:50,075 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:47:50,083 [Thread-1] - INFO:Main.js:Name :Interface1
+2019-10-09 17:47:50,083 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:50,084 [Thread-1] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:47:50,111 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:50,112 [Thread-1] - INFO:Main.js:Name :Port1
+2019-10-09 17:47:50,112 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:50,113 [Thread-1] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:47:50,113 [Thread-1] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:50,114 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:50,114 [Thread-1] - INFO:Main.js:Name :Port2
+2019-10-09 17:47:50,115 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:50,115 [Thread-1] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:47:50,116 [Thread-1] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:50,116 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:47:50,118 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:50,144 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-10-09 17:47:50,147 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-10-09 17:47:50,147 [Thread-1] - MO id = test 
+2019-10-09 17:47:50,150 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for Interface1
+2019-10-09 17:47:50,150 [Thread-1] - createActualElement :: Instance = Interface1Parent ID  = 0 null
+2019-10-09 17:47:50,151 [Thread-1] - MO id = 2 
+2019-10-09 17:47:50,154 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:50,155 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for Interface1
+2019-10-09 17:47:50,155 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 2
+2019-10-09 17:47:50,155 [Thread-1] - MO id = test 
+2019-10-09 17:47:50,155 [Thread-1] - createActualElement :: Instance = Port1Parent ID  = 2 Interface1
+2019-10-09 17:47:50,156 [Thread-1] - MO id = 3 
+2019-10-09 17:47:50,194 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:50,205 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for Interface1
+2019-10-09 17:47:50,207 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 2
+2019-10-09 17:47:50,208 [Thread-1] - MO id = test 
+2019-10-09 17:47:50,208 [Thread-1] - createActualElement :: Instance = Port2Parent ID  = 2 Interface1
+2019-10-09 17:47:50,208 [Thread-1] - MO id = 4 
+2019-10-09 17:47:50,211 [Thread-1] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-10-09 17:47:50,212 [Thread-1] - get(key = SnmpHandler)
+2019-10-09 17:47:50,212 [Thread-1] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-10-09 17:47:50,213 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-10-09 17:47:50,214 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-10-09 17:47:50,215 [Thread-1] - 
+2019-10-09 17:47:50,216 [Thread-1] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-10-09 17:47:50,216 [Thread-1] - get(key = SnmpHandler)
+2019-10-09 17:47:50,217 [Thread-1] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-10-09 17:47:50,218 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-10-09 17:47:50,220 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-10-09 17:47:50,221 [Thread-1] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 0 alerts
+2019-10-09 17:47:50,242 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-10-09 17:47:50,243 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-10-09 17:47:50,244 [Thread-1] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-10-09 17:47:52,890 [Thread-2] - get(key = SnmpHandler)
+2019-10-09 17:47:52,891 [Thread-2] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:47:52,892 [Thread-2] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:47:52,892 [Thread-2] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:47:52,894 [Thread-2] - INFO:Main.js:Name :Interface1
+2019-10-09 17:47:52,895 [Thread-2] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:52,895 [Thread-2] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:47:52,896 [Thread-2] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:52,896 [Thread-2] - INFO:Main.js:Name :Port1
+2019-10-09 17:47:52,897 [Thread-2] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:52,897 [Thread-2] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:47:52,898 [Thread-2] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:52,898 [Thread-2] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:52,898 [Thread-2] - INFO:Main.js:Name :Port2
+2019-10-09 17:47:52,899 [Thread-2] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:52,899 [Thread-2] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:47:52,900 [Thread-2] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:52,901 [Thread-2] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:47:52,903 [Thread-2] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:52,904 [Thread-2] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:52,904 [Thread-2] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:59,719 [Thread-3] - get(key = SnmpHandler)
+2019-10-09 17:47:59,720 [Thread-3] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:47:59,721 [Thread-3] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:47:59,722 [Thread-3] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:47:59,722 [Thread-3] - INFO:Main.js:Name :Interface1
+2019-10-09 17:47:59,723 [Thread-3] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:59,723 [Thread-3] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:47:59,724 [Thread-3] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:59,724 [Thread-3] - INFO:Main.js:Name :Port1
+2019-10-09 17:47:59,725 [Thread-3] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:59,725 [Thread-3] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:47:59,725 [Thread-3] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:59,726 [Thread-3] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:47:59,726 [Thread-3] - INFO:Main.js:Name :Port2
+2019-10-09 17:47:59,727 [Thread-3] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:47:59,727 [Thread-3] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:47:59,728 [Thread-3] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:47:59,728 [Thread-3] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:47:59,729 [Thread-3] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:59,729 [Thread-3] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:47:59,730 [Thread-3] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:03,895 [Thread-4] - get(key = SnmpHandler)
+2019-10-09 17:48:03,896 [Thread-4] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:03,897 [Thread-4] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:03,898 [Thread-4] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:03,899 [Thread-4] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:03,899 [Thread-4] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:03,899 [Thread-4] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:03,900 [Thread-4] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:03,900 [Thread-4] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:03,901 [Thread-4] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:03,902 [Thread-4] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:03,902 [Thread-4] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:03,903 [Thread-4] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:03,903 [Thread-4] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:03,904 [Thread-4] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:03,905 [Thread-4] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:03,905 [Thread-4] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:03,906 [Thread-4] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:03,907 [Thread-4] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:03,908 [Thread-4] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:03,908 [Thread-4] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:07,296 [Thread-5] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-10-09 17:48:07,296 [Thread-5] - get(key = SnmpHandler)
+2019-10-09 17:48:07,297 [Thread-5] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-10-09 17:48:07,297 [Thread-5] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-10-09 17:48:07,298 [Thread-5] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-10-09 17:48:07,298 [Thread-5] - 
+2019-10-09 17:48:09,919 [Thread-6] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-10-09 17:48:09,920 [Thread-6] - get(key = SnmpHandler)
+2019-10-09 17:48:09,920 [Thread-6] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-10-09 17:48:09,921 [Thread-6] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-10-09 17:48:09,924 [Thread-6] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-10-09 17:48:09,925 [Thread-6] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 0 alerts
+2019-10-09 17:48:11,167 [Thread-7] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-10-09 17:48:11,168 [Thread-7] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-10-09 17:48:11,170 [Thread-7] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-10-09 17:48:14,583 [Thread-8] - get(key = SnmpHandler)
+2019-10-09 17:48:14,583 [Thread-8] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:14,585 [Thread-8] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:14,586 [Thread-8] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:14,586 [Thread-8] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:14,587 [Thread-8] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:14,587 [Thread-8] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:14,588 [Thread-8] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:14,588 [Thread-8] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:14,588 [Thread-8] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:14,589 [Thread-8] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:14,589 [Thread-8] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:14,590 [Thread-8] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:14,590 [Thread-8] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:14,590 [Thread-8] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:14,591 [Thread-8] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:14,591 [Thread-8] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:14,592 [Thread-8] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:14,592 [Thread-8] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:14,594 [Thread-8] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:14,594 [Thread-8] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:15,647 [Thread-9] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:48:15,648 [Thread-9] - ERROR:Main.js:Secondary attribute = IPAddress
+2019-10-09 17:48:15,649 [Thread-9] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:48:15,649 [Thread-9] - get(key = Logger)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = ContextHelper)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = IndicationHandler)
+2019-10-09 17:48:15,649 [Thread-9] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@1a597c10)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = Logger)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = ContextHelper)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = IndicationHandler)
+2019-10-09 17:48:15,649 [Thread-9] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@149e812b)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = Logger)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = ContextHelper)
+2019-10-09 17:48:15,649 [Thread-9] - get(key = IndicationHandler)
+2019-10-09 17:48:15,649 [Thread-9] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@10a11760)
+2019-10-09 17:48:15,661 [Thread-9] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 17:48:15,663 [Thread-9] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:48:15,664 [Thread-9] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:48:15,668 [Thread-9] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-10-09 17:48:15,669 [Thread-9] - current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-10-09 17:48:15,723 [Thread-9] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:48:15,724 [Thread-9] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:48:15,733 [Thread-9] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-10-09 17:48:15,738 [Thread-9] - ERROR:DEBUG:current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-10-09 17:48:15,760 [Thread-10] - get(key = SnmpHandler)
+2019-10-09 17:48:15,761 [Thread-10] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:15,763 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:15,768 [Thread-10] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:15,769 [Thread-10] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:15,770 [Thread-10] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:15,770 [Thread-10] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:15,775 [Thread-10] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:15,776 [Thread-10] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:15,777 [Thread-10] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:15,778 [Thread-10] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:15,779 [Thread-10] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:15,779 [Thread-10] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:15,780 [Thread-10] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:15,780 [Thread-10] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:15,780 [Thread-10] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:15,781 [Thread-10] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:15,781 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:15,782 [Thread-10] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:15,783 [Thread-10] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:15,783 [Thread-10] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:15,785 [Thread-10] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-10-09 17:48:15,785 [Thread-10] - get(key = SnmpHandler)
+2019-10-09 17:48:15,786 [Thread-10] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-10-09 17:48:15,787 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-10-09 17:48:15,788 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-10-09 17:48:15,789 [Thread-10] - 
+2019-10-09 17:48:15,791 [Thread-10] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-10-09 17:48:15,791 [Thread-10] - get(key = SnmpHandler)
+2019-10-09 17:48:15,792 [Thread-10] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-10-09 17:48:15,794 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-10-09 17:48:15,796 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-10-09 17:48:15,797 [Thread-10] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 0 alerts
+2019-10-09 17:48:15,798 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-10-09 17:48:15,799 [Thread-10] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-10-09 17:48:15,800 [Thread-10] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-10-09 17:48:17,895 [Thread-11] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:48:17,895 [Thread-11] - ERROR:Main.js:Secondary attribute = IPAddress
+2019-10-09 17:48:17,896 [Thread-11] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 17:48:17,896 [Thread-11] - get(key = Logger)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = ContextHelper)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = IndicationHandler)
+2019-10-09 17:48:17,896 [Thread-11] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@386ba54b)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = Logger)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = ContextHelper)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = IndicationHandler)
+2019-10-09 17:48:17,896 [Thread-11] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@36ac4c36)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = Logger)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = ContextHelper)
+2019-10-09 17:48:17,896 [Thread-11] - get(key = IndicationHandler)
+2019-10-09 17:48:17,897 [Thread-11] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@3293ce3b)
+2019-10-09 17:48:17,898 [Thread-11] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 17:48:17,899 [Thread-11] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:48:17,900 [Thread-11] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:48:17,904 [Thread-11] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-10-09 17:48:17,905 [Thread-11] - current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-10-09 17:48:17,934 [Thread-11] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-09 17:48:17,935 [Thread-11] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-09 17:48:17,940 [Thread-11] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-10-09 17:48:17,941 [Thread-11] - ERROR:DEBUG:current script = this C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-10-09 17:48:17,961 [Thread-12] - get(key = SnmpHandler)
+2019-10-09 17:48:17,965 [Thread-12] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:17,966 [Thread-12] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:17,969 [Thread-12] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:17,969 [Thread-12] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:17,969 [Thread-12] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:17,970 [Thread-12] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:17,970 [Thread-12] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:17,971 [Thread-12] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:17,971 [Thread-12] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:17,971 [Thread-12] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:17,972 [Thread-12] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:17,972 [Thread-12] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:17,973 [Thread-12] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:17,973 [Thread-12] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:17,973 [Thread-12] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:17,974 [Thread-12] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:17,975 [Thread-12] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:17,975 [Thread-12] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:17,976 [Thread-12] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:17,977 [Thread-12] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:18,999 [Thread-13] - get(key = SnmpHandler)
+2019-10-09 17:48:18,999 [Thread-13] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:19,001 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:19,002 [Thread-13] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:19,003 [Thread-13] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:19,003 [Thread-13] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:19,003 [Thread-13] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:19,005 [Thread-13] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:19,005 [Thread-13] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:19,006 [Thread-13] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:19,006 [Thread-13] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:19,006 [Thread-13] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:19,007 [Thread-13] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:19,007 [Thread-13] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:19,007 [Thread-13] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:19,008 [Thread-13] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:19,009 [Thread-13] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:19,009 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:19,010 [Thread-13] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:19,010 [Thread-13] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:19,011 [Thread-13] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:19,012 [Thread-13] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-10-09 17:48:19,012 [Thread-13] - get(key = SnmpHandler)
+2019-10-09 17:48:19,013 [Thread-13] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-10-09 17:48:19,013 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-10-09 17:48:19,014 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-10-09 17:48:19,014 [Thread-13] - 
+2019-10-09 17:48:19,018 [Thread-13] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-10-09 17:48:19,018 [Thread-13] - get(key = SnmpHandler)
+2019-10-09 17:48:19,019 [Thread-13] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-10-09 17:48:19,019 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-10-09 17:48:19,020 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-10-09 17:48:19,020 [Thread-13] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 0 alerts
+2019-10-09 17:48:19,021 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-10-09 17:48:19,022 [Thread-13] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-10-09 17:48:19,022 [Thread-13] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-10-09 17:48:21,174 [Thread-14] - get(key = SnmpHandler)
+2019-10-09 17:48:21,175 [Thread-14] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-09 17:48:21,176 [Thread-14] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-09 17:48:21,179 [Thread-14] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-09 17:48:21,179 [Thread-14] - INFO:Main.js:Name :Interface1
+2019-10-09 17:48:21,180 [Thread-14] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:21,180 [Thread-14] - INFO:Main.js:DisplayName :DNInterface1
+2019-10-09 17:48:21,181 [Thread-14] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:21,181 [Thread-14] - INFO:Main.js:Name :Port1
+2019-10-09 17:48:21,182 [Thread-14] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:21,182 [Thread-14] - INFO:Main.js:DisplayName :DNPort1
+2019-10-09 17:48:21,182 [Thread-14] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:21,183 [Thread-14] - INFO:Main.js:CustomClassName :UIM_GenericPort
+2019-10-09 17:48:21,183 [Thread-14] - INFO:Main.js:Name :Port2
+2019-10-09 17:48:21,184 [Thread-14] - INFO:Main.js:ElementType :Grouping
+2019-10-09 17:48:21,184 [Thread-14] - INFO:Main.js:DisplayName :DNPort2
+2019-10-09 17:48:21,185 [Thread-14] - INFO:Main.js:Parent :Interface1
+2019-10-09 17:48:21,185 [Thread-14] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-09 17:48:21,186 [Thread-14] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:21,186 [Thread-14] - Picking up Instantiation component from agent constants. INFO
+2019-10-09 17:48:21,187 [Thread-14] - Picking up Instantiation component from agent constants. INFO

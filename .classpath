@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/*.lib|**/*.agent|**/*.aig|mibs/*" kind="src" output="classes/server" path="server"/>
+	<classpathentry excluding="**/*.model" kind="src" output="classes/client" path="client"/>
+	<classpathentry kind="con" path="com.netboss.adt.ide.eclipse.AGENT_FRAMEWORK">
+		<attributes>
+			<attribute name="agentruntimeserver.jar" value="agent-classpath"/>
+			<attribute name="common.jar" value="agent-classpath"/>
+			<attribute name="core.jar" value="agent-classpath"/>
+			<attribute name="integration.jar" value="agent-classpath"/>
+			<attribute name="legacycommon.jar" value="agent-classpath"/>
+			<attribute name="metadata.jar" value="agent-classpath"/>
+			<attribute name="schema-generation.jar" value="agent-classpath"/>
+			<attribute name="server.jar" value="agent-classpath"/>
+			<attribute name="shared_metadata.jar" value="agent-classpath"/>
+			<attribute name="shared_server.jar" value="agent-classpath"/>
+			<attribute name="com.netboss.agents.jssimulator.jar" value="agent-classpath"/>
+			<attribute name="commands.jar" value="agent-classpath"/>
+			<attribute name="commons-collections.jar" value="agent-classpath"/>
+			<attribute name="commons-io.jar" value="agent-classpath"/>
+			<attribute name="commons-lang.jar" value="agent-classpath"/>
+			<attribute name="commons-logging.jar" value="agent-classpath"/>
+			<attribute name="commons-net.jar" value="agent-classpath"/>
+			<attribute name="dom4j.jar" value="agent-classpath"/>
+			<attribute name="equinox_common.jar" value="agent-classpath"/>
+			<attribute name="httpclient-osgi.jar" value="agent-classpath"/>
+			<attribute name="jasypt-hibernate3.jar" value="agent-classpath"/>
+			<attribute name="jasypt-spring2.jar" value="agent-classpath"/>
+			<attribute name="jasypt-springsecurity2.jar" value="agent-classpath"/>
+			<attribute name="jasypt.jar" value="agent-classpath"/>
+			<attribute name="jface.jar" value="agent-classpath"/>
+			<attribute name="js.jar" value="agent-classpath"/>
+			<attribute name="jsch.jar" value="agent-classpath"/>
+			<attribute name="jython-standalone.jar" value="agent-classpath"/>
+			<attribute name="log4j.jar" value="agent-classpath"/>
+			<attribute name="org.eclipse.osgi.jar" value="agent-classpath"/>
+			<attribute name="org.eclipse.wst.jsdt.debug.rhino.debugger.jar" value="agent-classpath"/>
+			<attribute name="org.eclipse.wst.jsdt.debug.rhino.jar" value="agent-classpath"/>
+			<attribute name="org.eclipse.wst.jsdt.debug.transport.jar" value="agent-classpath"/>
+			<attribute name="poi.jar" value="agent-classpath"/>
+			<attribute name="snmp4j.jar" value="agent-classpath"/>
+			<attribute name="spring-beans.jar" value="agent-classpath"/>
+			<attribute name="spring-context.jar" value="agent-classpath"/>
+			<attribute name="spring-core.jar" value="agent-classpath"/>
+			<attribute name="spring-osgi-core.jar" value="agent-classpath"/>
+			<attribute name="spring-osgi-io.jar" value="agent-classpath"/>
+			<attribute name="workbench.jar" value="agent-classpath"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

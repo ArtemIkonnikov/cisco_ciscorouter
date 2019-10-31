@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:awi="http:///com/harris/netboss/agentworkshop/inheritance.ecore">
+  <awi:ClassDefinition name="UIM_CiscoRouterNetworkElement">
+    <properties name="Script" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+      <qualifiers name="Required" type="boolean" value="true"/>
+    </properties>
+    <properties name="SystemUpTimeTxt" type="string">
+      <qualifiers name="Description" type="string" value="A textual representation of the SystemUpTime field."/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_GenericNetworkElement"/>
+  </awi:ClassDefinition>
+  <awi:ClassDefinition name="UIM_CiscoRouterMgmtInterface">
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_SNMPDeviceMgmtInterface"/>
+    <methods name="SynchronizePerformance" type="string">
+      <qualifiers name="Description" type="string" value="This command starts the polling of the device in order to update performance values"/>
+    </methods>
+  </awi:ClassDefinition>
+  <awi:ClassDefinition name="HNSD_CiscoRouterProvider">
+    <properties defaultValue="Ciscorouter" name="CustomAgentName" type="string"/>
+    <properties defaultValue="Cisco" name="CustomAgentVendor" type="string"/>
+    <qualifiers name="UmlPackagePath" type="string" value="classes::cim"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#HNSD_GenericProvider"/>
+  </awi:ClassDefinition>
+  <awi:ClassDefinition name="UIM_CiscoRouterInstComponent">
+    <properties name="CustomAgentHome" type="string"/>
+    <properties defaultValue="Ciscorouter" name="CustomAgentName" type="string"/>
+    <properties defaultValue="Cisco" name="CustomAgentVendor" type="string"/>
+    <properties defaultValue="CiscoCiscorouter" name="ElementType" type="string"/>
+    <properties defaultValue="Main.js" name="Script" type="string">
+      <qualifiers name="Description" type="string" value="Location of the script  for parsing and updating agent"/>
+      <qualifiers name="Required" type="boolean" value="true"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+    </properties>
+    <qualifiers name="UmlPackagePath" type="string" value="components"/>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_SNMPDeviceInstComponent"/>
+  </awi:ClassDefinition>
+  <awi:ClassDefinition name="UIM_CiscoRouterMonInterface">
+    <properties defaultValue="Ciscorouter" name="CustomAgentName" type="string">
+      <qualifiers name="Description" type="string" value="Name of the the custom agent. This MUST match references to the agent name under the agent home area."/>
+      <qualifiers name="Read" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="Cisco" name="CustomAgentVendor" type="string">
+      <qualifiers name="Description" type="string" value="Vendor of the the custom agent. This MUST match references to the agent vendor under the agent home area."/>
+      <qualifiers name="Read" type="boolean" value="false"/>
+    </properties>
+    <properties name="CustomAgentHome" type="string">
+      <qualifiers name="Description" type="string" value="Home of the the custom agent. This MUST match the home path below the custom agent vendor directory."/>
+      <qualifiers name="Read" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="0" name="PerformancePollingTime" type="uint16">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+      <qualifiers name="ValueMap" type="string" value="0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23"/>
+      <qualifiers name="Values" type="string" value="12:00 AM;1:00 AM;2:00 AM;3:00 AM;4:00 AM;5:00 AM;6:00 AM;7:00 AM;8:00 AM;9:00 AM;10:00 AM;11:00 AM;12:00 PM;1:00 PM;2:00 PM;3:00 PM;4:00 PM;5:00 PM;6:00 PM;7:00 PM;8:00 PM;9:00 PM;10:00 PM;11:00 PM"/>
+    </properties>
+    <properties defaultValue="Never" name="PerformancePollingFrequency" type="string">
+      <qualifiers name="Description" type="string" value="Performance Polling Frequency"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+      <qualifiers name="ValueMap" type="string" value="Never;15 minutes;30 minutes;1 hours;6 hours;12 hours;Daily;Weekly - Sunday;Weekly - Monday;Weekly - Tuesday;Weekly - Wednesday;Weekly - Thursday;Weekly - Friday;Weekly - Saturday;Monthly"/>
+      <qualifiers name="Values" type="string" value="Never;15 minutes;30 minutes;1 hours;6 hours;12 hours;Daily;Weekly - Sunday;Weekly - Monday;Weekly - Tuesday;Weekly - Wednesday;Weekly - Thursday;Weekly - Friday;Weekly - Saturday;Monthly"/>
+    </properties>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_AALGenericSNMPDeviceMonInterface"/>
+  </awi:ClassDefinition>
+  <awi:ClassDefinition name="UIM_CiscoInterface">
+    <properties defaultValue="" name="AdminStatus" type="uint16">
+      <qualifiers name="Description" type="string" value="The desired state of the interface. The testing(3) state indicates that no operational packets can be passed. When a managed system initializes, all interfaces start with ifAdminStatus in the down(2) state. As a result of either explicit management action or per configuration information retained by the managed system, ifAdminStatus is then changed to either the up(1) or testing(3) states (or remains in the down(2) state)." translatable="true"/>
+      <qualifiers name="ValueMap" type="string" value="1;2;3"/>
+      <qualifiers name="Values" type="string" value="up;down;testing"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+    </properties>
+    <properties defaultValue="" name="OperStatus" type="uint16">
+      <qualifiers name="Description" type="string" value="The current operational state of the interface. The testing(3) state indicates that no operational packets can be passed. If ifAdminStatus is down(2) then ifOperStatus should be down(2). If ifAdminStatus is changed to up(1) then ifOperStatus should change to up(1) if the interface is ready to transmit and receive network traffic; it should change to dormant(5) if the interface is waiting for external actions (such as a serial line waiting for an incoming connection); it should remain in the down(2) state if and only if there is a fault that prevents it from going to the up(1) state; it should remain in the notPresent(6) state if the interface has missing (typically, hardware) components." translatable="true"/>
+      <qualifiers name="ValueMap" type="string" value="1;2;3;4;5;6;7"/>
+      <qualifiers name="Values" type="string" value="up;down;testing;unknown;dormant;notPresent;lowerLayerDown"/>
+    </properties>
+    <properties defaultValue="" name="Speed" type="uint32">
+      <qualifiers name="Description" type="string" value="An estimate of the interface's current bandwidth in bits per second. For interfaces which do not vary in bandwidth or for those where no accurate estimation can be made, this object should contain the nominal bandwidth. If the bandwidth of the interface is greater than the maximum value reportable by this object then this object should report its maximum value (4,294,967,295) and ifHighSpeed must be used to report the interace's speed. For a sub-layer which has no concept of bandwidth, this object should be zero." translatable="true"/>
+    </properties>
+    <properties defaultValue="" name="InDiscards" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="" name="InUnknownProtos" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="" name="Caption" type="string">
+      <qualifiers name="Description" type="string" value="The Caption property is a short textual description (one- line string) of the object." translatable="true"/>
+      <qualifiers name="MaxLen" type="uint32" value="256"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="" name="Type" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="true"/>
+    </properties>
+    <properties defaultValue="" name="PhysicalAddress" type="string">
+      <qualifiers name="Description" type="string" value="The interface's address at its protocol sub-layer. For example, for an 802.x interface, this object normally contains a MAC address. The interface's media-specific MIB must define the bit and byte ordering and the format of the value of this object. For interfaces which do not have such an address (e.g., a serial line), this object should contain an octet string of zero length." translatable="true"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="" name="LastChange" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties defaultValue="" name="OutOctets" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="Mtu" type="uint32">
+      <qualifiers name="Description" type="string" value="The size of the largest packet which can be sent/received on the interface, specified in octets. For interfaces that are used for transmitting network datagrams, this is the size of the largest network datagram that can be sent on the interface."/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="Description" type="string">
+      <qualifiers name="Description" type="string" value="The Description property provides a textual description of the object." translatable="true"/>
+      <qualifiers name="MaxLen" type="uint32" value="1024"/>
+      <qualifiers name="Write" type="boolean" value="true" overridable="true"/>
+    </properties>
+    <properties name="Index" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="InOctets" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="InUcastPkts" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="InError" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="OutUcastPkts" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="OutDiscards" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <properties name="OutErrors" type="string">
+      <qualifiers name="Description" type="string" value="Input property description"/>
+      <qualifiers name="Write" type="boolean" value="false"/>
+    </properties>
+    <superclass href="file:/C:/Users/ikonnikov.a/workspace_xade_vk/tmp/ADT_6485766022183789112.lib#UIM_GenericInterface"/>
+  </awi:ClassDefinition>
+</xmi:XMI>

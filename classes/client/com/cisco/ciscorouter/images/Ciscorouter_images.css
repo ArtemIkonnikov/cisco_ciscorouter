@@ -1,0 +1,3 @@
+object."UIM_CiscoRouterNetworkElement"[ElementType="CiscoCiscorouter"] {
+	largeImage: '@|image("com/cisco/ciscorouter/images/default_icon.gif")';
+}

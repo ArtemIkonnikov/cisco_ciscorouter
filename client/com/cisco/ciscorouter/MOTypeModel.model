@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<awc:ClassReference xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:awc="http:///com/harris/netboss/agentworkshop/containment.ecore">
+  <managedObjects classname="UIM_CiscoRouterNetworkElement" displayName="Ciscorouter Cisco" elementType="CiscoCiscorouter" version="3.0.0.0"/>
+</awc:ClassReference>

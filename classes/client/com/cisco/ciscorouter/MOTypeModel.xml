@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright 2010 Harris Corporation. All Rights Reserved. -->
+<ManagedObject>
+    <UIMClass>UIM_CiscoRouterNetworkElement</UIMClass>
+    <DisplayName>Ciscorouter Cisco</DisplayName>
+    <ElementType>CiscoCiscorouter</ElementType>
+    <Version>3.0.0.0</Version>
+</ManagedObject>

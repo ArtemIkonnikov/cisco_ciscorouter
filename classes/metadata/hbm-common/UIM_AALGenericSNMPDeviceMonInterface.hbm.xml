@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.harris.netboss.common.schema.generation.classes">
+  <typedef name="encryptedString" class="org.jasypt.hibernate.type.EncryptedStringType">
+    <param name="encryptorRegisteredName">hibernateStringEncryptor</param>
+  </typedef>
+  <subclass extends="UIM_GenericSNMPDeviceMonInterface" name="UIM_AALGenericSNMPDeviceMonInterface" discriminator-value="UIM_AALGenericSNMPDeviceMonInterface">
+    <meta attribute="class-description">Generated Javadocs for UIM_AALGenericSNMPDeviceMonInterface
+	@author jkonicki</meta>
+    <join table="UIM_AALGenericSNMPDeviceMonInt">
+      <key column="id"/>
+      <property name="LogFileMaxBackupIndex" type="java.lang.Integer">
+        <meta attribute="default-value">new java.lang.Integer(1)</meta>
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="LogFileMaxBackupIndex"/>
+      </property>
+      <property name="LogFileTrimMode" type="java.lang.Integer">
+        <meta attribute="default-value">new java.lang.Integer(110)</meta>
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="LogFileTrimMode"/>
+      </property>
+    </join>
+  </subclass>
+</hibernate-mapping>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.harris.netboss.common.schema.generation.classes">
+  <typedef name="encryptedString" class="org.jasypt.hibernate.type.EncryptedStringType">
+    <param name="encryptorRegisteredName">hibernateStringEncryptor</param>
+  </typedef>
+  <subclass extends="HNSD_GenericProvider" name="HNSD_CiscoRouterProvider" discriminator-value="HNSD_CiscoRouterProvider">
+    <meta attribute="class-description">Generated Javadocs for HNSD_CiscoRouterProvider
+	@author jkonicki</meta>
+    <meta attribute="default-super">setCustomAgentName("Ciscorouter");setCustomAgentVendor("Cisco");</meta>
+    <join table="HNSD_CiscoRouterProvider">
+      <key column="id"/>
+    </join>
+  </subclass>
+</hibernate-mapping>

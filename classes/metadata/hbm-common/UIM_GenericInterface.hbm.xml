@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.harris.netboss.common.schema.generation.classes">
+  <typedef name="encryptedString" class="org.jasypt.hibernate.type.EncryptedStringType">
+    <param name="encryptorRegisteredName">hibernateStringEncryptor</param>
+  </typedef>
+  <subclass extends="UIM_Port" name="UIM_GenericInterface" discriminator-value="UIM_GenericInterface">
+    <meta attribute="class-description">Generated Javadocs for UIM_GenericInterface
+	@author jkonicki</meta>
+    <join table="UIM_GenericInterface">
+      <key column="id"/>
+      <property name="PhysicalAddress" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="PhysicalAddress" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="AdminStatus" type="java.lang.Integer">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="AdminStatus"/>
+      </property>
+      <property name="OperStatus" type="java.lang.Integer">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="OperStatus"/>
+      </property>
+      <property name="Index" type="java.lang.Integer">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="Index1"/>
+      </property>
+      <property name="InterfaceType" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InterfaceType" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="DuplexMode" type="java.lang.Integer">
+        <meta attribute="default-value">new java.lang.Integer(2)</meta>
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="DuplexMode"/>
+      </property>
+      <property name="Speed" type="java.lang.Long">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="Speed"/>
+      </property>
+      <property name="HighSpeed" type="java.lang.Long">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="HighSpeed"/>
+      </property>
+      <property name="Alias" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="Alias" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="Mtu" type="java.lang.Long">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="Mtu"/>
+      </property>
+      <property name="IfKeyName" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="IfKeyName" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InterfaceNameIfMib" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InterfaceNameIfMib" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InterfaceDescriptionIfMib" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InterfaceDescriptionIfMib" sql-type="varchar2(3000)"/>
+      </property>
+    </join>
+  </subclass>
+</hibernate-mapping>

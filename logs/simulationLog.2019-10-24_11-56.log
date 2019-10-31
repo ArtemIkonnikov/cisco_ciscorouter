@@ -1,0 +1,297 @@
+2019-10-24 11:56:13,540 [main] - args 0 C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-24 11:56:13,541 [main] - args 1 192.168.117.103
+2019-10-24 11:56:13,541 [main] - args 2 161
+2019-10-24 11:56:13,541 [main] - args 3 public
+2019-10-24 11:56:13,541 [main] - args 4 public
+2019-10-24 11:56:13,541 [main] - args 5 162
+2019-10-24 11:56:13,541 [main] - args 6 0
+2019-10-24 11:56:13,541 [main] - args 7 com.cisco.ciscorouter.file.instrumentation.InstrumentationManager
+2019-10-24 11:56:13,542 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/2/cisco_ciscorouter/
+2019-10-24 11:56:13,542 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/2/cisco_ciscorouter/server/
+2019-10-24 11:56:13,542 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/2/cisco_ciscorouter/classes/server/
+2019-10-24 11:56:13,542 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agentsdk.jar
+2019-10-24 11:56:13,543 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/res/config/log4j.xml
+2019-10-24 11:56:13,544 [main] - /C:/XADE/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar
+2019-10-24 11:56:13,544 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.transport_1.0.200.v201402051800.jar
+2019-10-24 11:56:13,544 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.400.v201402051800.jar
+2019-10-24 11:56:13,544 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino_1.0.300.v201402051800.jar
+2019-10-24 11:56:13,544 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agents.jssimulator.jar
+2019-10-24 11:56:13,544 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commands.jar
+2019-10-24 11:56:13,544 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-collections.jar
+2019-10-24 11:56:13,544 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-io.jar
+2019-10-24 11:56:13,544 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-lang.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-logging.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-net.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/dom4j.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/equinox_common.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/httpclient-osgi.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-hibernate3.jar
+2019-10-24 11:56:13,545 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-spring2.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-springsecurity2.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jface.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/js.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jsch.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jython-standalone.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/log4j.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.osgi.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.debugger.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.jar
+2019-10-24 11:56:13,546 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.transport.jar
+2019-10-24 11:56:13,547 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/poi.jar
+2019-10-24 11:56:13,547 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/snmp4j.jar
+2019-10-24 11:56:13,547 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-beans.jar
+2019-10-24 11:56:13,547 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-context.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-core.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-core.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-io.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/workbench.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/agentruntimeserver.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/common.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/core.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/integration.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/legacycommon.jar
+2019-10-24 11:56:13,548 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/metadata.jar
+2019-10-24 11:56:13,549 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/schema-generation.jar
+2019-10-24 11:56:13,549 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/server.jar
+2019-10-24 11:56:13,549 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_metadata.jar
+2019-10-24 11:56:13,549 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_server.jar
+2019-10-24 11:56:13,556 [main] - Script = C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js, ip = 192.168.117.103:161, read= public, write=public, debugport 0
+2019-10-24 11:56:13,781 [main] - invoke(actionName = setAgentService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-24 11:56:13,782 [main] - invoke(actionName = setElementService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-24 11:56:13,782 [main] - invoke(actionName = setAlertAccessor, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-10-24 11:56:14,004 [main] - put(key = SnmpHandler, value = com.netboss.adt.ide.eclipse.simulation.js.SimulatorSnmpHandler@11028347)
+2019-10-24 11:56:14,008 [main] - put(key = summAlarmOidsDict, value = {})
+2019-10-24 11:56:14,009 [main] - put(key = configDict, value = {})
+2019-10-24 11:56:14,009 [main] - put(key = attributeDict, value = {})
+2019-10-24 11:56:14,009 [main] - put(key = alarmDict, value = {})
+2019-10-24 11:56:14,009 [main] - put(key = alarmOidsDict, value = {})
+2019-10-24 11:56:14,009 [main] - put(key = InstrumentationManager, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager@14899482)
+2019-10-24 11:56:14,009 [main] - put(key = SystemHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-10-24 11:56:14,010 [main] - put(key = IndicationHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-10-24 11:56:14,010 [main] - put(key = Logger, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$Logger@2aae9190)
+2019-10-24 11:56:15,018 [main] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-24 11:56:15,019 [main] - ERROR::Secondary attribute = IPAddress
+2019-10-24 11:56:15,021 [main] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-24 11:56:15,034 [main] - get(key = Logger)
+2019-10-24 11:56:15,034 [main] - get(key = ContextHelper)
+2019-10-24 11:56:15,034 [main] - get(key = IndicationHandler)
+2019-10-24 11:56:15,034 [main] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@7b1d7fff)
+2019-10-24 11:56:15,047 [main] - get(key = Logger)
+2019-10-24 11:56:15,047 [main] - get(key = ContextHelper)
+2019-10-24 11:56:15,047 [main] - get(key = IndicationHandler)
+2019-10-24 11:56:15,049 [main] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@6bc168e5)
+2019-10-24 11:56:15,064 [main] - get(key = Logger)
+2019-10-24 11:56:15,064 [main] - get(key = ContextHelper)
+2019-10-24 11:56:15,064 [main] - get(key = IndicationHandler)
+2019-10-24 11:56:15,064 [main] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@136432db)
+2019-10-24 11:56:15,067 [main] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-24 11:56:15,168 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-24 11:56:15,170 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-24 11:56:15,179 [main] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-10-24 11:56:15,183 [main] - current script = this C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-10-24 11:56:15,609 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-10-24 11:56:15,610 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-10-24 11:56:15,618 [main] - sendIndication :: called with {AlertType=4, Description=C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-10-24 11:56:15,620 [main] - ERROR:DEBUG:current script = this C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-10-24 11:56:15,708 [main] - Failed to create a trap listener on port .
+java.net.BindException: Address already in use: Cannot bind
+	at java.net.DualStackPlainDatagramSocketImpl.socketBind(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.bind0(DualStackPlainDatagramSocketImpl.java:84)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:93)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:242)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:299)
+	at org.snmp4j.transport.DefaultUdpTransportMapping.<init>(DefaultUdpTransportMapping.java:101)
+	at com.netboss.adt.ide.eclipse.simulation.js.TrapReceiver.<init>(TrapReceiver.java:150)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.initAndStartGUI(JsSimulationManager.java:766)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.<init>(JsSimulationManager.java:638)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.main(JsSimulationManager.java:432)
+2019-10-24 11:56:15,719 [Thread-1] - get(key = SnmpHandler)
+2019-10-24 11:56:15,721 [Thread-1] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-10-24 11:56:15,724 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-10-24 11:56:15,725 [Thread-1] - DEBUG:Main.js:CONFIGURATION!!!!!!!!!!
+2019-10-24 11:56:15,976 [Thread-1] - DEBUG:Main.js:UIM_GenericInterface.1 was created!!
+2019-10-24 11:56:15,983 [Thread-1] - INFO:Main.js:Name :UIM_GenericInterface.1
+2019-10-24 11:56:15,984 [Thread-1] - INFO:Main.js:DisplayName :UIM_GenericInterface.1
+2019-10-24 11:56:15,985 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-24 11:56:15,985 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-24 11:56:16,136 [Thread-1] - DEBUG:Main.js:UIM_GenericInterface.3 was created!!
+2019-10-24 11:56:16,137 [Thread-1] - INFO:Main.js:Name :UIM_GenericInterface.3
+2019-10-24 11:56:16,137 [Thread-1] - INFO:Main.js:DisplayName :UIM_GenericInterface.3
+2019-10-24 11:56:16,138 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-24 11:56:16,138 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-24 11:56:16,139 [Thread-1] - DEBUG:Main.js:UIM_GenericInterface.4 was created!!
+2019-10-24 11:56:16,140 [Thread-1] - INFO:Main.js:Name :UIM_GenericInterface.4
+2019-10-24 11:56:16,140 [Thread-1] - INFO:Main.js:DisplayName :UIM_GenericInterface.4
+2019-10-24 11:56:16,141 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-10-24 11:56:16,141 [Thread-1] - INFO:Main.js:CustomClassName :UIM_GenericInterface
+2019-10-24 11:56:16,142 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-10-24 11:56:16,144 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-24 11:56:16,172 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-10-24 11:56:16,173 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-10-24 11:56:16,173 [Thread-1] - MO id = test 
+2019-10-24 11:56:16,176 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for UIM_GenericInterface.1
+2019-10-24 11:56:16,176 [Thread-1] - createActualElement :: Instance = UIM_GenericInterface.1Parent ID  = 0 null
+2019-10-24 11:56:16,176 [Thread-1] - MO id = 2 
+2019-10-24 11:56:16,179 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-24 11:56:16,181 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-10-24 11:56:16,181 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-10-24 11:56:16,182 [Thread-1] - MO id = test 
+2019-10-24 11:56:16,183 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for UIM_GenericInterface.3
+2019-10-24 11:56:16,183 [Thread-1] - createActualElement :: Instance = UIM_GenericInterface.3Parent ID  = 0 null
+2019-10-24 11:56:16,184 [Thread-1] - MO id = 3 
+2019-10-24 11:56:16,185 [Thread-1] - Picking up Instantiation component from agent constants. INFO
+2019-10-24 11:56:16,186 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-10-24 11:56:16,186 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-10-24 11:56:16,187 [Thread-1] - MO id = test 
+2019-10-24 11:56:16,188 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for UIM_GenericInterface.4
+2019-10-24 11:56:16,188 [Thread-1] - createActualElement :: Instance = UIM_GenericInterface.4Parent ID  = 0 null
+2019-10-24 11:56:16,188 [Thread-1] - MO id = 4 
+2019-10-24 11:56:16,190 [Thread-1] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-10-24 11:56:16,191 [Thread-1] - get(key = SnmpHandler)
+2019-10-24 11:56:16,191 [Thread-1] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-10-24 11:56:16,192 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-10-24 11:56:16,192 [Thread-1] - DEBUG:Main.js:ATTRIBUTES!!!!!!!!!!!!!
+2019-10-24 11:56:16,600 [Thread-1] - DEBUG:Main.js:ELEMENT 1 was updated!!!!!
+2019-10-24 11:56:16,601 [Thread-1] - INFO:Main.js:outErrors undefined
+2019-10-24 11:56:16,602 [Thread-1] - INFO:Main.js:Description :FastEthernet0/0
+2019-10-24 11:56:16,602 [Thread-1] - INFO:Main.js:Type :6
+2019-10-24 11:56:16,603 [Thread-1] - INFO:Main.js:Mtu :1500
+2019-10-24 11:56:16,604 [Thread-1] - INFO:Main.js:Speed :100000000
+2019-10-24 11:56:16,604 [Thread-1] - INFO:Main.js:PhysAddress :00:0f:24:af:19:3a
+2019-10-24 11:56:16,605 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-10-24 11:56:16,605 [Thread-1] - INFO:Main.js:OperStatus :1
+2019-10-24 11:56:16,606 [Thread-1] - INFO:Main.js:LastChange :3252
+2019-10-24 11:56:16,606 [Thread-1] - INFO:Main.js:InOctets :2116755951
+2019-10-24 11:56:16,607 [Thread-1] - INFO:Main.js:InUcastPkts :14281866
+2019-10-24 11:56:16,607 [Thread-1] - INFO:Main.js:InDiscards :0
+2019-10-24 11:56:16,607 [Thread-1] - INFO:Main.js:InError :0
+2019-10-24 11:56:16,608 [Thread-1] - INFO:Main.js:InUnknownProtos :0
+2019-10-24 11:56:16,608 [Thread-1] - INFO:Main.js:OutOctets :2340041938
+2019-10-24 11:56:16,608 [Thread-1] - INFO:Main.js:OutUcastPkts :17199692
+2019-10-24 11:56:16,609 [Thread-1] - INFO:Main.js:OutDiscards :0
+2019-10-24 11:56:16,609 [Thread-1] - INFO:Main.js:OutErrors :0
+2019-10-24 11:56:16,610 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for UIM_GenericInterface.1
+2019-10-24 11:56:16,610 [Thread-1] - DEBUG:Main.js:ELEMENT 3 was updated!!!!!
+2019-10-24 11:56:16,611 [Thread-1] - INFO:Main.js:outErrors undefined
+2019-10-24 11:56:16,612 [Thread-1] - INFO:Main.js:Description :Null0
+2019-10-24 11:56:16,612 [Thread-1] - INFO:Main.js:Type :1
+2019-10-24 11:56:16,612 [Thread-1] - INFO:Main.js:Mtu :1500
+2019-10-24 11:56:16,613 [Thread-1] - INFO:Main.js:Speed :4294967295
+2019-10-24 11:56:16,613 [Thread-1] - INFO:Main.js:PhysAddress :
+2019-10-24 11:56:16,616 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-10-24 11:56:16,617 [Thread-1] - INFO:Main.js:OperStatus :1
+2019-10-24 11:56:16,617 [Thread-1] - INFO:Main.js:LastChange :0
+2019-10-24 11:56:16,617 [Thread-1] - INFO:Main.js:InOctets :0
+2019-10-24 11:56:16,618 [Thread-1] - INFO:Main.js:InUcastPkts :0
+2019-10-24 11:56:16,618 [Thread-1] - INFO:Main.js:InDiscards :0
+2019-10-24 11:56:16,618 [Thread-1] - INFO:Main.js:InError :0
+2019-10-24 11:56:16,619 [Thread-1] - INFO:Main.js:InUnknownProtos :0
+2019-10-24 11:56:16,619 [Thread-1] - INFO:Main.js:OutOctets :0
+2019-10-24 11:56:16,620 [Thread-1] - INFO:Main.js:OutUcastPkts :0
+2019-10-24 11:56:16,620 [Thread-1] - INFO:Main.js:OutDiscards :0
+2019-10-24 11:56:16,621 [Thread-1] - INFO:Main.js:OutErrors :0
+2019-10-24 11:56:16,621 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for UIM_GenericInterface.3
+2019-10-24 11:56:16,622 [Thread-1] - DEBUG:Main.js:ELEMENT 4 was updated!!!!!
+2019-10-24 11:56:16,622 [Thread-1] - INFO:Main.js:outErrors undefined
+2019-10-24 11:56:16,623 [Thread-1] - INFO:Main.js:Description :E1 0/0
+2019-10-24 11:56:16,623 [Thread-1] - INFO:Main.js:Type :18
+2019-10-24 11:56:16,624 [Thread-1] - INFO:Main.js:Mtu :undefined
+2019-10-24 11:56:16,624 [Thread-1] - INFO:Main.js:Speed :2048000
+2019-10-24 11:56:16,625 [Thread-1] - INFO:Main.js:PhysAddress :
+2019-10-24 11:56:16,625 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-10-24 11:56:16,626 [Thread-1] - INFO:Main.js:OperStatus :2
+2019-10-24 11:56:16,626 [Thread-1] - INFO:Main.js:LastChange :0
+2019-10-24 11:56:16,627 [Thread-1] - INFO:Main.js:InOctets :undefined
+2019-10-24 11:56:16,627 [Thread-1] - INFO:Main.js:InUcastPkts :undefined
+2019-10-24 11:56:16,628 [Thread-1] - INFO:Main.js:InDiscards :undefined
+2019-10-24 11:56:16,628 [Thread-1] - INFO:Main.js:InError :undefined
+2019-10-24 11:56:16,629 [Thread-1] - INFO:Main.js:InUnknownProtos :undefined
+2019-10-24 11:56:16,629 [Thread-1] - INFO:Main.js:OutOctets :undefined
+2019-10-24 11:56:16,629 [Thread-1] - INFO:Main.js:OutUcastPkts :undefined
+2019-10-24 11:56:16,632 [Thread-1] - INFO:Main.js:OutDiscards :undefined
+2019-10-24 11:56:16,632 [Thread-1] - INFO:Main.js:OutErrors :undefined
+2019-10-24 11:56:16,633 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for UIM_GenericInterface.4
+2019-10-24 11:56:16,634 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-10-24 11:56:16,635 [Thread-1] - 
+2019-10-24 11:56:16,636 [Thread-1] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-10-24 11:56:16,636 [Thread-1] - get(key = SnmpHandler)
+2019-10-24 11:56:16,636 [Thread-1] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-10-24 11:56:16,637 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-10-24 11:56:16,637 [Thread-1] - DEBUG:Main.js:ALARM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2019-10-24 11:56:16,712 [Thread-1] - DEBUG:Main.js: myAdminStatus : 1 myOperStatus :1 interfaceName:FastEthernet0/0     IF.1  !!!
+2019-10-24 11:56:16,713 [Thread-1] - DEBUG:Main.js: myAdminStatus : 1 myOperStatus :1 interfaceName:Null0     IF.3  !!!
+2019-10-24 11:56:16,714 [Thread-1] - DEBUG:Main.js: myAdminStatus : 1 myOperStatus :2 interfaceName:E1 0/0     IF.4  !!!
+2019-10-24 11:56:16,715 [Thread-1] - DEBUG:Main.js:ManagedObject :IF.4
+2019-10-24 11:56:16,716 [Thread-1] - DEBUG:Main.js:Caption :Interface Down
+2019-10-24 11:56:16,716 [Thread-1] - DEBUG:Main.js:Description :The interface E1 0/0 is DOWN. 
+ Interface Description: 
+2019-10-24 11:56:16,717 [Thread-1] - DEBUG:Main.js:PerceivedSeverity :6
+2019-10-24 11:56:16,718 [Thread-1] - DEBUG:Main.js:AlertType :5
+2019-10-24 11:56:16,719 [Thread-1] - DEBUG:Main.js:ProbableCause :0
+2019-10-24 11:56:16,719 [Thread-1] - DEBUG:Main.js:State :1
+2019-10-24 11:56:16,720 [Thread-1] - DEBUG:Main.js:SpecificCause :SpecificCause
+2019-10-24 11:56:16,721 [Thread-1] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-10-24 11:56:16,724 [Thread-1] - sendIndication :: called with {Clearable=false, AlertType=5, Description=The interface E1 0/0 is DOWN. 
+ Interface Description: , ProbableCause=0, State=1, UserResponsible=Device, PerceivedSeverity=6, AlertingManagedElementNameExtension=IF.4, CimAlertingManagedElementId=0, SpecificCause=SpecificCause, Caption=Interface Down}
+2019-10-24 11:56:16,728 [Thread-1] - sendIndication :: modified map {FQN=TopLevel, Description=The interface E1 0/0 is DOWN. 
+ Interface Description: , AlertName=null, PerceivedSeverity=6, SpecificCause=SpecificCause, Caption=Interface Down, Clearable=false, AlertType=5, ProbableCause=0, State=1, UserResponsible=Device, AlertingManagedElementNameExtension=IF.4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-10-24 11:56:16,730 [Thread-0] - Running in shell:true
+2019-10-24 11:56:16,738 [Thread-1] - Wrapped org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException) (C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js#394)
+2019-10-24 11:56:16,738 [Thread-1] - WARN:InstrumentationManager :: executeFunction():Exception occured calling Error Handler function call for  Alarm
+2019-10-24 11:56:16,751 [Thread-1] - WARN:InstrumentationManager :: executeFunction():Running Error Handler function call for  Alarm return was null
+2019-10-24 11:56:16,752 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Function parameter 0 Alarm
+2019-10-24 11:56:16,753 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Function parameter 1 [Ljava.lang.Object;@833074c
+2019-10-24 11:56:16,788 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Function parameter 2 org.mozilla.javascript.WrappedException: Wrapped org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException) (C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js#394)
+	at org.mozilla.javascript.Context.throwAsScriptRuntimeEx(Context.java:1754)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:148)
+	at org.mozilla.javascript.NativeJavaMethod.call(NativeJavaMethod.java:225)
+	at org.mozilla.javascript.optimizer.OptRuntime.call1(OptRuntime.java:32)
+	at org.mozilla.javascript.gen.C__Users_ikonnikov_a_workspace_xade_vk_2_cisco_ciscorouter_server_com_cisco_ciscorouter_file_instrumentation_Main_js_1._c_sendAlarm_19(C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js:394)
+	at org.mozilla.javascript.gen.C__Users_ikonnikov_a_workspace_xade_vk_2_cisco_ciscorouter_server_com_cisco_ciscorouter_file_instrumentation_Main_js_1.call(C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js)
+	at org.mozilla.javascript.optimizer.OptRuntime.callName(OptRuntime.java:63)
+	at org.mozilla.javascript.gen.C__Users_ikonnikov_a_workspace_xade_vk_2_cisco_ciscorouter_server_com_cisco_ciscorouter_file_instrumentation_Main_js_1._c_Alarm_2(C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js:50)
+	at org.mozilla.javascript.gen.C__Users_ikonnikov_a_workspace_xade_vk_2_cisco_ciscorouter_server_com_cisco_ciscorouter_file_instrumentation_Main_js_1.call(C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js)
+	at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:394)
+	at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3091)
+	at org.mozilla.javascript.gen.C__Users_ikonnikov_a_workspace_xade_vk_2_cisco_ciscorouter_server_com_cisco_ciscorouter_file_instrumentation_Main_js_1.call(C:\Users\ikonnikov.a\workspace_xade_vk\2\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js)
+	at com.cisco.ciscorouter.file.instrumentation.InstrumentationManager.executeFunction(InstrumentationManager.java:971)
+	at com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler.pollAllAlarms(InstrumentationManager.java:93)
+	at com.cisco.ciscorouter.file.instrumentation.InstrumentationManager.invoke(InstrumentationManager.java:1501)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.instrumentationManagerInvoke(JsSimulationManager.java:2743)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.synchronizeAlarm(JsSimulationManager.java:3462)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.synchronizeDevice(JsSimulationManager.java:3500)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.invoke(JsSimulationManager.java:2759)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$4.run(JsSimulationManager.java:782)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NullPointerException)
+	at org.eclipse.swt.SWT.error(SWT.java:4441)
+	at org.eclipse.swt.SWT.error(SWT.java:4356)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:209)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.sendIndication(JsSimulationManager.java:3186)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.activateAlert(JsSimulationManager.java:813)
+	at com.cisco.ciscorouter.file.instrumentation.InstrumentationManager.sendAlarm(InstrumentationManager.java:1912)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mozilla.javascript.MemberBox.invoke(MemberBox.java:126)
+	... 19 more
+Caused by: java.lang.NullPointerException
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationGUI.addAlarm(JsSimulationGUI.java:521)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$10.run(JsSimulationManager.java:3191)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$2.run(JsSimulationManager.java:746)
+	... 1 more
+
+2019-10-24 11:56:16,789 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =ErrorHandler
+2019-10-24 11:56:16,789 [Thread-1] - DEBUG:Main.js:Handling Error on Alarm
+2019-10-24 11:56:16,790 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function ErrorHandler;return= success
+2019-10-24 11:56:16,792 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-10-24 11:56:16,793 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-10-24 11:56:16,794 [Thread-1] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success

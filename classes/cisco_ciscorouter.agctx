@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AgentContext>
+<MOTypeModel>client/com/cisco/ciscorouter/MOTypeModel.xml</MOTypeModel>
+<MgmtModel>server/com/cisco/ciscorouter/MgmtModel.xml</MgmtModel>
+<CIMInstances>server/com/cisco/ciscorouter/instances.xml</CIMInstances>
+<CIMClasses>
+<CIMClass>server/com/cisco/ciscorouter/Classes.xml</CIMClass>
+</CIMClasses>
+</AgentContext>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.TilePane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import eu.hansolo.medusa.Gauge?>
+<?import eu.hansolo.medusa.FGauge?>
+<?import eu.hansolo.medusa.Clock?>
+<?import com.enghouse.netboss.client.fxcomponents.TopLevelPane?>
+<?import com.enghouse.netboss.client.fxcomponents.BundleImageView?>
+<?import com.enghouse.netboss.client.fxcomponents.ExpandableItemView?>
+<?import com.enghouse.netboss.client.fxcomponents.ToggleSwitchButton?>
+<?import com.enghouse.netboss.client.fxcomponents.HorizontalBarGauge?>
+<?import com.enghouse.netboss.client.fxcomponents.VerticalBarGauge?>
+<?import com.enghouse.netboss.client.fxcomponents.CircularGauge?>
+<?import com.enghouse.netboss.client.fxcomponents.ConeGauge?>
+<?import com.enghouse.netboss.client.fxcomponents.HalfCircularGauge?>
+<?import com.enghouse.netboss.client.fxcomponents.EquipmentView?>
+
+<?import javafx.collections.FXCollections?>
+
+<ScrollPane styleClass="layout-sp">
+<content>
+<AnchorPane>
+<children>
+<TopLevelPane AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" styleClass="layout" xmlns="http://javafx.com/javafx/8.0.162" xmlns:fx="http://javafx.com/fxml/1" fx:id="topLevelPane">
+<children>
+<BundleImageView layoutX="0.0" layoutY="0.0" prefWidth="1218.0" prefHeight="78.0" bundleImagePath="com/cisco/ciscorouter/diagrams/res/NTI_Banner.jpg" style="" />
+<Label layoutX="176.0" layoutY="233.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="IPAddress" /></Label>
+<Label layoutX="176.0" layoutY="173.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="DeviceName" /></Label>
+<Label layoutX="176.0" layoutY="353.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="ManagementStatus" /></Label>
+<Label layoutX="176.0" layoutY="203.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="Description" /></Label>
+<Label layoutX="176.0" layoutY="263.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="SystemLocation" /></Label>
+<Label layoutX="176.0" layoutY="323.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="SystemContact" /></Label>
+<Label layoutX="176.0" layoutY="293.0" prefWidth="319.0" prefHeight="30.0" Text=" " textFill="#000000" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" textMapping="SystemUpTimeTxt" /></Label>
+<Label layoutX="46.0" layoutY="140.0" prefWidth="449.0" prefHeight="33.0" Text="System Details" alignment="CENTER" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="449.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="18.0" /></font></Label>
+<Label layoutX="46.0" layoutY="233.0" prefWidth="130.0" prefHeight="30.0" Text="IP Address:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="382.8404" prefWidth="129.85" prefHeight="30.31925" Text="Alarm Status:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="129.85" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="173.0" prefWidth="130.0" prefHeight="30.0" Text="Device:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="293.0" prefWidth="130.0" prefHeight="30.0" Text="System Uptime:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="353.0" prefWidth="130.0" prefHeight="30.0" Text="Management Status:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="176.0" layoutY="383.0" prefWidth="319.0" prefHeight="30.0" Text="    " textFill="#FFFFFF" style=" -fx-background-color: #FFFFFF; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><font><Font name="Arial" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="323.0" prefWidth="130.0" prefHeight="30.0" Text="Contact:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="263.0" prefWidth="130.0" prefHeight="30.0" Text="Location:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Label layoutX="46.0" layoutY="203.0" prefWidth="130.0" prefHeight="30.0" Text="Description:" textFill="#FFFFFF" style=" -fx-background-color: #333333; -fx-border-color: #999999;"><padding><Insets bottom="5.0" left="5.0" right="5.0" top="5.0" /></padding><tooltip><Tooltip wrapText="true" autoHide="true" maxWidth="130.0" onShowing="#onTooltip" /></tooltip><font><Font name="Arial Bold" size="12.0" /></font></Label>
+<Ellipse layoutX="192.50005" layoutY="398.52002" scaleX="0.833" scaleY="0.833" radiusX="11.495651" radiusY="11.000008" fill="#808080" stroke="#000000" strokeType="OUTSIDE" style=""><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" alertMapping="true" /></Ellipse>
+<Button layoutX="522.20575" layoutY="191.82018" prefWidth="159.3971" prefHeight="23.591858" focusTraversable="false" mnemonicParsing="false" onAction="#actionMapping" Text="Synchronize Device" style=""><padding><Insets bottom="4.0" left="8.0" right="8.0" top="4.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" operationMapping="SynchronizeDevice" /></Button>
+<Button layoutX="522.20575" layoutY="159.32024" prefWidth="159.3971" prefHeight="23.591858" focusTraversable="false" mnemonicParsing="false" onAction="#actionMapping" Text="Check Connectivity" style=""><padding><Insets bottom="4.0" left="8.0" right="8.0" top="4.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" operationMapping="CheckConnectivity" /></Button>
+<Button layoutX="522.20575" layoutY="256.82013" prefWidth="159.3971" prefHeight="23.591858" focusTraversable="false" mnemonicParsing="false" onAction="#actionMapping" Text="Synchronize Alarms" style=""><padding><Insets bottom="4.0" left="8.0" right="8.0" top="4.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" operationMapping="SynchronizeAlarms" /></Button>
+<Button layoutX="522.20575" layoutY="224.32013" prefWidth="159.3971" prefHeight="23.591858" focusTraversable="false" mnemonicParsing="false" onAction="#actionMapping" Text="Synchronize Configuration" style=""><padding><Insets bottom="4.0" left="8.0" right="8.0" top="4.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" operationMapping="SynchronizeConfiguration" /></Button>
+<Button layoutX="521.60284" layoutY="289.31967" prefWidth="160.0" prefHeight="23.591858" focusTraversable="false" mnemonicParsing="false" onAction="#actionMapping" Text="Synchronize Attributes" style=""><padding><Insets bottom="4.0" left="8.0" right="8.0" top="4.0" /></padding><font><Font name="Arial" size="12.0" /></font><properties modelObject="/UIM_CiscoRouterNetworkElement[ElementType=CiscoCiscorouter]" operationMapping="SynchronizeAttributes" /></Button>
+</children>
+</TopLevelPane>
+</children>
+</AnchorPane>
+</content>
+</ScrollPane>

@@ -1,0 +1,7 @@
+Built-By: NetBoss Technologies, Inc
+Import-Package: *;resolution:=optional
+Export-Package: *
+Bundle-SymbolicName: Cisco.Ciscorouter
+Bundle-Version: 3.0.0.0
+Bundle-Vendor: Cisco
+Bundle-Activator: com.cisco.ciscorouter.CiscorouterAgentInstanceProvider

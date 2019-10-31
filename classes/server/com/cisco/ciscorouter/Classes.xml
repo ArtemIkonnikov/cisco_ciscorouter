@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright 2010 Harris Corporation. All Rights Reserved. -->
+<CIM xmlns:packbuild="com.harris.netboss.graphomclient.agentworkshop.util.transform" xmlns:xmi="http://www.omg.org/XMI" CIMVERSION="2.2" DTDVERSION="2.1">
+    <DECLARATION>
+        <DECLGROUP>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="UIM_GenericNetworkElement" NAME="UIM_CiscoRouterNetworkElement">
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterNetworkElement" NAME="Script" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Required" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterNetworkElement" NAME="SystemUpTimeTxt" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>A textual representation of the SystemUpTime field.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                </CLASS>
+            </VALUE.OBJECT>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="UIM_SNMPDeviceMgmtInterface" NAME="UIM_CiscoRouterMgmtInterface">
+                    <METHOD CLASSORIGIN="UIM_CiscoRouterMgmtInterface" NAME="SynchronizePerformance" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>This command starts the polling of the device in order to update performance values</VALUE>
+                        </QUALIFIER>
+                    </METHOD>
+                </CLASS>
+            </VALUE.OBJECT>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="HNSD_GenericProvider" NAME="HNSD_CiscoRouterProvider">
+                    <QUALIFIER NAME="UmlPackagePath" TYPE="string">
+                        <VALUE>classes::cim</VALUE>
+                    </QUALIFIER>
+                    <PROPERTY CLASSORIGIN="HNSD_CiscoRouterProvider" NAME="CustomAgentName" TYPE="string">
+                        <VALUE>Ciscorouter</VALUE>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="HNSD_CiscoRouterProvider" NAME="CustomAgentVendor" TYPE="string">
+                        <VALUE>Cisco</VALUE>
+                    </PROPERTY>
+                </CLASS>
+            </VALUE.OBJECT>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="UIM_SNMPDeviceInstComponent" NAME="UIM_CiscoRouterInstComponent">
+                    <QUALIFIER NAME="UmlPackagePath" TYPE="string">
+                        <VALUE>components</VALUE>
+                    </QUALIFIER>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterInstComponent" NAME="CustomAgentHome" TYPE="string"></PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterInstComponent" NAME="CustomAgentName" TYPE="string">
+                        <VALUE>Ciscorouter</VALUE>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterInstComponent" NAME="CustomAgentVendor" TYPE="string">
+                        <VALUE>Cisco</VALUE>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterInstComponent" NAME="ElementType" TYPE="string">
+                        <VALUE>CiscoCiscorouter</VALUE>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterInstComponent" NAME="Script" TYPE="string">
+                        <VALUE>Main.js</VALUE>
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Location of the script for parsing and updating agent</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Required" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                </CLASS>
+            </VALUE.OBJECT>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="UIM_AALGenericSNMPDeviceMonInterface" NAME="UIM_CiscoRouterMonInterface">
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterMonInterface" NAME="CustomAgentName" TYPE="string">
+                        <VALUE>Ciscorouter</VALUE>
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Name of the the custom agent. This MUST match references to the agent name under the agent home area.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Read" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterMonInterface" NAME="CustomAgentVendor" TYPE="string">
+                        <VALUE>Cisco</VALUE>
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Vendor of the the custom agent. This MUST match references to the agent vendor under the agent home area.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Read" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterMonInterface" NAME="CustomAgentHome" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Home of the the custom agent. This MUST match the home path below the custom agent vendor directory.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Read" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterMonInterface" NAME="PerformancePollingTime" TYPE="uint16">
+                        <VALUE>0</VALUE>
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="ValueMap" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>0</VALUE>
+                                <VALUE>1</VALUE>
+                                <VALUE>2</VALUE>
+                                <VALUE>3</VALUE>
+                                <VALUE>4</VALUE>
+                                <VALUE>5</VALUE>
+                                <VALUE>6</VALUE>
+                                <VALUE>7</VALUE>
+                                <VALUE>8</VALUE>
+                                <VALUE>9</VALUE>
+                                <VALUE>10</VALUE>
+                                <VALUE>11</VALUE>
+                                <VALUE>12</VALUE>
+                                <VALUE>13</VALUE>
+                                <VALUE>14</VALUE>
+                                <VALUE>15</VALUE>
+                                <VALUE>16</VALUE>
+                                <VALUE>17</VALUE>
+                                <VALUE>18</VALUE>
+                                <VALUE>19</VALUE>
+                                <VALUE>20</VALUE>
+                                <VALUE>21</VALUE>
+                                <VALUE>22</VALUE>
+                                <VALUE>23</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Values" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>12:00 AM</VALUE>
+                                <VALUE>1:00 AM</VALUE>
+                                <VALUE>2:00 AM</VALUE>
+                                <VALUE>3:00 AM</VALUE>
+                                <VALUE>4:00 AM</VALUE>
+                                <VALUE>5:00 AM</VALUE>
+                                <VALUE>6:00 AM</VALUE>
+                                <VALUE>7:00 AM</VALUE>
+                                <VALUE>8:00 AM</VALUE>
+                                <VALUE>9:00 AM</VALUE>
+                                <VALUE>10:00 AM</VALUE>
+                                <VALUE>11:00 AM</VALUE>
+                                <VALUE>12:00 PM</VALUE>
+                                <VALUE>1:00 PM</VALUE>
+                                <VALUE>2:00 PM</VALUE>
+                                <VALUE>3:00 PM</VALUE>
+                                <VALUE>4:00 PM</VALUE>
+                                <VALUE>5:00 PM</VALUE>
+                                <VALUE>6:00 PM</VALUE>
+                                <VALUE>7:00 PM</VALUE>
+                                <VALUE>8:00 PM</VALUE>
+                                <VALUE>9:00 PM</VALUE>
+                                <VALUE>10:00 PM</VALUE>
+                                <VALUE>11:00 PM</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoRouterMonInterface" NAME="PerformancePollingFrequency" TYPE="string">
+                        <VALUE>Never</VALUE>
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Performance Polling Frequency</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="ValueMap" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>Never</VALUE>
+                                <VALUE>15 minutes</VALUE>
+                                <VALUE>30 minutes</VALUE>
+                                <VALUE>1 hours</VALUE>
+                                <VALUE>6 hours</VALUE>
+                                <VALUE>12 hours</VALUE>
+                                <VALUE>Daily</VALUE>
+                                <VALUE>Weekly - Sunday</VALUE>
+                                <VALUE>Weekly - Monday</VALUE>
+                                <VALUE>Weekly - Tuesday</VALUE>
+                                <VALUE>Weekly - Wednesday</VALUE>
+                                <VALUE>Weekly - Thursday</VALUE>
+                                <VALUE>Weekly - Friday</VALUE>
+                                <VALUE>Weekly - Saturday</VALUE>
+                                <VALUE>Monthly</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Values" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>Never</VALUE>
+                                <VALUE>15 minutes</VALUE>
+                                <VALUE>30 minutes</VALUE>
+                                <VALUE>1 hours</VALUE>
+                                <VALUE>6 hours</VALUE>
+                                <VALUE>12 hours</VALUE>
+                                <VALUE>Daily</VALUE>
+                                <VALUE>Weekly - Sunday</VALUE>
+                                <VALUE>Weekly - Monday</VALUE>
+                                <VALUE>Weekly - Tuesday</VALUE>
+                                <VALUE>Weekly - Wednesday</VALUE>
+                                <VALUE>Weekly - Thursday</VALUE>
+                                <VALUE>Weekly - Friday</VALUE>
+                                <VALUE>Weekly - Saturday</VALUE>
+                                <VALUE>Monthly</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                    </PROPERTY>
+                </CLASS>
+            </VALUE.OBJECT>
+            <VALUE.OBJECT>
+                <CLASS SUPERCLASS="UIM_GenericInterface" NAME="UIM_CiscoInterface">
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="AdminStatus" TYPE="uint16">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>The desired state of the interface. The testing(3) state indicates that no operational packets can be passed. When a managed system initializes, all interfaces start with ifAdminStatus in the down(2) state. As a result of either explicit management action or per configuration information retained by the managed system, ifAdminStatus is then changed to either the up(1) or testing(3) states (or remains in the down(2) state).</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="ValueMap" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>1</VALUE>
+                                <VALUE>2</VALUE>
+                                <VALUE>3</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Values" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>up</VALUE>
+                                <VALUE>down</VALUE>
+                                <VALUE>testing</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="OperStatus" TYPE="uint16">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>The current operational state of the interface. The testing(3) state indicates that no operational packets can be passed. If ifAdminStatus is down(2) then ifOperStatus should be down(2). If ifAdminStatus is changed to up(1) then ifOperStatus should change to up(1) if the interface is ready to transmit and receive network traffic; it should change to dormant(5) if the interface is waiting for external actions (such as a serial line waiting for an incoming connection); it should remain in the down(2) state if and only if there is a fault that prevents it from going to the up(1) state; it should remain in the notPresent(6) state if the interface has missing (typically, hardware) components.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="ValueMap" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>1</VALUE>
+                                <VALUE>2</VALUE>
+                                <VALUE>3</VALUE>
+                                <VALUE>4</VALUE>
+                                <VALUE>5</VALUE>
+                                <VALUE>6</VALUE>
+                                <VALUE>7</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Values" TYPE="string">
+                            <VALUE.ARRAY>
+                                <VALUE>up</VALUE>
+                                <VALUE>down</VALUE>
+                                <VALUE>testing</VALUE>
+                                <VALUE>unknown</VALUE>
+                                <VALUE>dormant</VALUE>
+                                <VALUE>notPresent</VALUE>
+                                <VALUE>lowerLayerDown</VALUE>
+                            </VALUE.ARRAY>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Speed" TYPE="uint32">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>An estimate of the interface's current bandwidth in bits per second. For interfaces which do not vary in bandwidth or for those where no accurate estimation can be made, this object should contain the nominal bandwidth. If the bandwidth of the interface is greater than the maximum value reportable by this object then this object should report its maximum value (4,294,967,295) and ifHighSpeed must be used to report the interace's speed. For a sub-layer which has no concept of bandwidth, this object should be zero.</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="InDiscards" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="InUnknownProtos" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Caption" TYPE="string">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>The Caption property is a short textual description (one- line string) of the object.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="MaxLen" TYPE="uint32">
+                            <VALUE>256</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Type" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="PhysicalAddress" TYPE="string">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>The interface's address at its protocol sub-layer. For example, for an 802.x interface, this object normally contains a MAC address. The interface's media-specific MIB must define the bit and byte ordering and the format of the value of this object. For interfaces which do not have such an address (e.g., a serial line), this object should contain an octet string of zero length.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="LastChange" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="OutOctets" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Mtu" TYPE="uint32">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>The size of the largest packet which can be sent/received on the interface, specified in octets. For interfaces that are used for transmitting network datagrams, this is the size of the largest network datagram that can be sent on the interface.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Description" TYPE="string">
+                        <QUALIFIER NAME="Description" TRANSLATABLE="true" TYPE="string">
+                            <VALUE>The Description property provides a textual description of the object.</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="MaxLen" TYPE="uint32">
+                            <VALUE>1024</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" OVERRIDABLE="true" TYPE="boolean">
+                            <VALUE>true</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="Index" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="InOctets" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="InUcastPkts" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="InError" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="OutUcastPkts" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="OutDiscards" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                    <PROPERTY CLASSORIGIN="UIM_CiscoInterface" NAME="OutErrors" TYPE="string">
+                        <QUALIFIER NAME="Description" TYPE="string">
+                            <VALUE>Input property description</VALUE>
+                        </QUALIFIER>
+                        <QUALIFIER NAME="Write" TYPE="boolean">
+                            <VALUE>false</VALUE>
+                        </QUALIFIER>
+                    </PROPERTY>
+                </CLASS>
+            </VALUE.OBJECT>
+        </DECLGROUP>
+    </DECLARATION>
+</CIM>

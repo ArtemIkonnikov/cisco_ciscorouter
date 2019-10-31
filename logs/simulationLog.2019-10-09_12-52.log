@@ -1,0 +1,89 @@
+2019-10-09 12:52:46,796 [main] - args 0 C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 12:52:46,797 [main] - args 1 127.0.0.1
+2019-10-09 12:52:46,797 [main] - args 2 161
+2019-10-09 12:52:46,797 [main] - args 3 public
+2019-10-09 12:52:46,797 [main] - args 4 public
+2019-10-09 12:52:46,797 [main] - args 5 162
+2019-10-09 12:52:46,797 [main] - args 6 9169
+2019-10-09 12:52:46,797 [main] - args 7 com.cisco.ciscorouter.file.instrumentation.InstrumentationManager
+2019-10-09 12:52:46,797 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/
+2019-10-09 12:52:46,797 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/server/
+2019-10-09 12:52:46,798 [main] - /C:/Users/ikonnikov.a/workspace_xade_vk/cisco_ciscorouter/classes/server/
+2019-10-09 12:52:46,798 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agentsdk.jar
+2019-10-09 12:52:46,799 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/res/config/log4j.xml
+2019-10-09 12:52:46,799 [main] - /C:/XADE/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar
+2019-10-09 12:52:46,799 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.transport_1.0.200.v201402051800.jar
+2019-10-09 12:52:46,799 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.400.v201402051800.jar
+2019-10-09 12:52:46,799 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino_1.0.300.v201402051800.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agents.jssimulator.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commands.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-collections.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-io.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-lang.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-logging.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-net.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/dom4j.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/equinox_common.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/httpclient-osgi.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-hibernate3.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-spring2.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-springsecurity2.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt.jar
+2019-10-09 12:52:46,800 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jface.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/js.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jsch.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jython-standalone.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/log4j.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.osgi.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.debugger.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.transport.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/poi.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/snmp4j.jar
+2019-10-09 12:52:46,801 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-beans.jar
+2019-10-09 12:52:46,813 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-context.jar
+2019-10-09 12:52:46,813 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-core.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-core.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-io.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/workbench.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/agentruntimeserver.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/common.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/core.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/integration.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/legacycommon.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/metadata.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/schema-generation.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/server.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_metadata.jar
+2019-10-09 12:52:46,814 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_server.jar
+2019-10-09 12:52:46,834 [main] - Script = C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js, ip = 127.0.0.1:161, read= public, write=public, debugport 9169
+2019-10-09 12:52:46,972 [main] - invoke(actionName = setAgentService, params = [Ljava.lang.Object;@3fd7a715, signature = null)
+2019-10-09 12:52:46,972 [main] - invoke(actionName = setElementService, params = [Ljava.lang.Object;@3fd7a715, signature = null)
+2019-10-09 12:52:46,972 [main] - invoke(actionName = setAlertAccessor, params = [Ljava.lang.Object;@3fd7a715, signature = null)
+2019-10-09 12:52:47,519 [main] - put(key = SnmpHandler, value = com.netboss.adt.ide.eclipse.simulation.js.SimulatorSnmpHandler@7a9273a8)
+2019-10-09 12:52:47,519 [main] - put(key = summAlarmOidsDict, value = {})
+2019-10-09 12:52:47,519 [main] - put(key = configDict, value = {})
+2019-10-09 12:52:47,519 [main] - put(key = attributeDict, value = {})
+2019-10-09 12:52:47,519 [main] - put(key = alarmDict, value = {})
+2019-10-09 12:52:47,520 [main] - put(key = alarmOidsDict, value = {})
+2019-10-09 12:52:47,520 [main] - put(key = InstrumentationManager, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager@26a7b76d)
+2019-10-09 12:52:47,520 [main] - put(key = SystemHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@4abdb505)
+2019-10-09 12:52:47,520 [main] - put(key = IndicationHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@4abdb505)
+2019-10-09 12:52:47,520 [main] - put(key = Logger, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$Logger@7ce6a65d)
+2019-10-09 12:52:49,530 [main] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 12:52:49,530 [main] - ERROR::Secondary attribute = IPAddress
+2019-10-09 12:52:49,532 [main] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-10-09 12:52:49,569 [main] - get(key = Logger)
+2019-10-09 12:52:49,569 [main] - get(key = ContextHelper)
+2019-10-09 12:52:49,569 [main] - get(key = IndicationHandler)
+2019-10-09 12:52:49,569 [main] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@5ed828d)
+2019-10-09 12:52:49,592 [main] - get(key = Logger)
+2019-10-09 12:52:49,593 [main] - get(key = ContextHelper)
+2019-10-09 12:52:49,593 [main] - get(key = IndicationHandler)
+2019-10-09 12:52:49,594 [main] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@a38d7a3)
+2019-10-09 12:52:49,614 [main] - get(key = Logger)
+2019-10-09 12:52:49,614 [main] - get(key = ContextHelper)
+2019-10-09 12:52:49,614 [main] - get(key = IndicationHandler)
+2019-10-09 12:52:49,614 [main] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@ed9d034)
+2019-10-09 12:52:49,616 [main] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\Users\ikonnikov.a\workspace_xade_vk\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-10-09 12:52:49,712 [main] - WARN::Start Rhino Debugger transport=socket,suspend=y,address=9169

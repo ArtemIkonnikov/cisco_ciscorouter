@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.harris.netboss.common.schema.generation.classes">
+  <typedef name="encryptedString" class="org.jasypt.hibernate.type.EncryptedStringType">
+    <param name="encryptorRegisteredName">hibernateStringEncryptor</param>
+  </typedef>
+  <subclass extends="UIM_GenericInterface" name="UIM_CiscoInterface" discriminator-value="UIM_CiscoInterface">
+    <meta attribute="class-description">Generated Javadocs for UIM_CiscoInterface
+	@author jkonicki</meta>
+    <join table="UIM_CiscoInterface">
+      <key column="id"/>
+      <property name="InDiscards" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InDiscards" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InUnknownProtos" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InUnknownProtos" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="Type" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="Type" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="LastChange" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="LastChange" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="OutOctets" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="OutOctets" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InOctets" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InOctets" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InUcastPkts" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InUcastPkts" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="InError" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="InError" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="OutUcastPkts" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="OutUcastPkts" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="OutDiscards" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="OutDiscards" sql-type="varchar2(3000)"/>
+      </property>
+      <property name="OutErrors" type="java.lang.String">
+        <meta attribute="use-in-tostring">true</meta>
+        <column name="OutErrors" sql-type="varchar2(3000)"/>
+      </property>
+    </join>
+  </subclass>
+</hibernate-mapping>
