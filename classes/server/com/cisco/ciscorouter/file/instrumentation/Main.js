@@ -39,9 +39,10 @@ function Alarm() {
 			ifAlarm.IfOperStatus = result[index].IfOperStatus;
 			ifAlarm.IfIndex = result[index].IfIndex;
 			
-			if (ifAlarm.IfAdminStatus == 1 && ifAlarm.IfOperStatus == 2) {
-				functionSendAlarm(ifAlarm);
-			}
+			var state = 3 ;
+			if(ifAlarm.IfOperStatus > 1){state = 1}
+			
+				functionSendAlarm(ifAlarm,state);
 		}
 	// TODO Add code to poll and get outstanding alarms
 	return "Success";
@@ -228,9 +229,11 @@ function TrapParser(trapId, varbinds, alarmId) {
 		ifTrap.IfAdminStatus = ifAdminStatus ;
 		ifTrap.IfOperStatus = ifOperStatus;
 		
-		if (ifTrap.IfAdminStatus == 1 && ifTrap.IfOperStatus == 2) {
-			functionSendAlarm(ifTrap,state);
-		}
+		var state = 3 ;
+		if(ifOperStatus > 1){state = 1}
+		
+		functionSendAlarm(ifTrap,state);
+		
 	} else {
 		unknownTrapAlarm(trapId,varbinds);
 	}
@@ -239,22 +242,20 @@ function TrapParser(trapId, varbinds, alarmId) {
 }
 
 
-function functionSendAlarm(alarmObject) {
+function functionSendAlarm(alarmObject,state) {
 	
 	var adminMsg = ["", "Up", "Down", "Testing"];
-	var stateVar= [1, 3, 1, 1, 1, 1, 1, 1];
-	var perceivedSeverity= [1, 2, 5, 3, 3, 3, 3, 3];
 
 		sendAlarm({
 			"Clearable": true,
 			"SpecificCause": "Interface_" + alarmObject['IfIndex'] + " " + adminMsg[alarmObject['IfAdminStatus']],
 			"ProbableCause": 1,
 			"AlertType": 2,
-			"State" : stateVar[alarmObject['IfOperStatus']],
+			"State" : state,
 			"DisplayName": "Interface Alarm",
 			"Description": "Interface " + adminMsg[alarmObject['IfAdminStatus']] + " alarm(AdminStatus)",
 			"Caption": "Interface_" + alarmObject['IfIndex'] + " operStatus: " + alarmObject['IfOperStatus'],
-			"PerceivedSeverity": perceivedSeverity[alarmObject['IfOperStatus']],
+			"PerceivedSeverity": 5,					
 			"ManagedObject": "Interface_" + alarmObject['IfIndex'],
 			"Name": "Interface_Down"
 		});
