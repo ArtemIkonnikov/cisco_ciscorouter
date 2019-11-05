@@ -248,7 +248,7 @@ function functionSendAlarm(alarmObject,state) {
 
 		sendAlarm({
 			"Clearable": true,
-			"SpecificCause": "Interface_" + alarmObject['IfIndex'] + " " + adminMsg[alarmObject['IfAdminStatus']],
+			"SpecificCause": "Interface_" + alarmObject['IfIndex'] + " Down Alarm",
 			"ProbableCause": 1,
 			"AlertType": 2,
 			"State" : state,
