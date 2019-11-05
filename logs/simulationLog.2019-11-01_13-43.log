@@ -1,0 +1,852 @@
+2019-11-01 13:43:55,504 [main] - args 0 C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-11-01 13:43:55,504 [main] - args 1 192.168.117.103
+2019-11-01 13:43:55,505 [main] - args 2 161
+2019-11-01 13:43:55,505 [main] - args 3 public
+2019-11-01 13:43:55,505 [main] - args 4 public
+2019-11-01 13:43:55,505 [main] - args 5 162
+2019-11-01 13:43:55,505 [main] - args 6 0
+2019-11-01 13:43:55,505 [main] - args 7 com.cisco.ciscorouter.file.instrumentation.InstrumentationManager
+2019-11-01 13:43:55,505 [main] - /C:/cisco_ciscorouter/
+2019-11-01 13:43:55,506 [main] - /C:/cisco_ciscorouter/server/
+2019-11-01 13:43:55,506 [main] - /C:/cisco_ciscorouter/classes/server/
+2019-11-01 13:43:55,506 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agentsdk.jar
+2019-11-01 13:43:55,506 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/res/config/log4j.xml
+2019-11-01 13:43:55,506 [main] - /C:/XADE/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar
+2019-11-01 13:43:55,506 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.transport_1.0.200.v201402051800.jar
+2019-11-01 13:43:55,506 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino.debugger_1.0.400.v201402051800.jar
+2019-11-01 13:43:55,506 [main] - /C:/XADE/eclipse/plugins/org.eclipse.wst.jsdt.debug.rhino_1.0.300.v201402051800.jar
+2019-11-01 13:43:55,506 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/com.netboss.agents.jssimulator.jar
+2019-11-01 13:43:55,506 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commands.jar
+2019-11-01 13:43:55,506 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-collections.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-io.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-lang.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-logging.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/commons-net.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/dom4j.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/equinox_common.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/httpclient-osgi.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-hibernate3.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-spring2.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt-springsecurity2.jar
+2019-11-01 13:43:55,507 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jasypt.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jface.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/js.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jsch.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/jython-standalone.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/log4j.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.osgi.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.debugger.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.rhino.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/org.eclipse.wst.jsdt.debug.transport.jar
+2019-11-01 13:43:55,508 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/poi.jar
+2019-11-01 13:43:55,509 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/snmp4j.jar
+2019-11-01 13:43:55,509 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-beans.jar
+2019-11-01 13:43:55,509 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-context.jar
+2019-11-01 13:43:55,510 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-core.jar
+2019-11-01 13:43:55,510 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-core.jar
+2019-11-01 13:43:55,510 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/spring-osgi-io.jar
+2019-11-01 13:43:55,510 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/common/lib/workbench.jar
+2019-11-01 13:43:55,510 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/agentruntimeserver.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/common.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/core.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/integration.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/legacycommon.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/metadata.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/schema-generation.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/server.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_metadata.jar
+2019-11-01 13:43:55,511 [main] - /C:/Users/ikonnikov.a/netboss-sdks/agentsdk/3.0/lib/shared_server.jar
+2019-11-01 13:43:55,519 [main] - Script = C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js, ip = 192.168.117.103:161, read= public, write=public, debugport 0
+2019-11-01 13:43:55,553 [main] - invoke(actionName = setAgentService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-11-01 13:43:55,553 [main] - invoke(actionName = setElementService, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-11-01 13:43:55,553 [main] - invoke(actionName = setAlertAccessor, params = [Ljava.lang.Object;@7dc5e7b4, signature = null)
+2019-11-01 13:43:55,610 [main] - put(key = SnmpHandler, value = com.netboss.adt.ide.eclipse.simulation.js.SimulatorSnmpHandler@11028347)
+2019-11-01 13:43:55,610 [main] - put(key = summAlarmOidsDict, value = {})
+2019-11-01 13:43:55,610 [main] - put(key = configDict, value = {})
+2019-11-01 13:43:55,610 [main] - put(key = attributeDict, value = {})
+2019-11-01 13:43:55,610 [main] - put(key = alarmDict, value = {})
+2019-11-01 13:43:55,610 [main] - put(key = alarmOidsDict, value = {})
+2019-11-01 13:43:55,611 [main] - put(key = InstrumentationManager, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager@14899482)
+2019-11-01 13:43:55,611 [main] - put(key = SystemHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-11-01 13:43:55,611 [main] - put(key = IndicationHandler, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager@21588809)
+2019-11-01 13:43:55,611 [main] - put(key = Logger, value = com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager$Logger@2aae9190)
+2019-11-01 13:43:56,618 [main] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-11-01 13:43:56,619 [main] - ERROR::Secondary attribute = IPAddress
+2019-11-01 13:43:56,622 [main] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-11-01 13:43:56,625 [main] - get(key = Logger)
+2019-11-01 13:43:56,625 [main] - get(key = ContextHelper)
+2019-11-01 13:43:56,625 [main] - get(key = IndicationHandler)
+2019-11-01 13:43:56,625 [main] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@7b1d7fff)
+2019-11-01 13:43:56,628 [main] - get(key = Logger)
+2019-11-01 13:43:56,629 [main] - get(key = ContextHelper)
+2019-11-01 13:43:56,629 [main] - get(key = IndicationHandler)
+2019-11-01 13:43:56,630 [main] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@6bc168e5)
+2019-11-01 13:43:56,632 [main] - get(key = Logger)
+2019-11-01 13:43:56,633 [main] - get(key = ContextHelper)
+2019-11-01 13:43:56,633 [main] - get(key = IndicationHandler)
+2019-11-01 13:43:56,633 [main] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@136432db)
+2019-11-01 13:43:56,635 [main] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-11-01 13:43:56,700 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-11-01 13:43:56,701 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-11-01 13:43:56,710 [main] - sendIndication :: called with {AlertType=4, Description=C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-11-01 13:43:56,712 [main] - current script = this C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-11-01 13:43:57,052 [main] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-11-01 13:43:57,053 [main] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-11-01 13:43:57,058 [main] - sendIndication :: called with {AlertType=4, Description=C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-11-01 13:43:57,060 [main] - ERROR:DEBUG:current script = this C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-11-01 13:43:57,107 [main] - Failed to create a trap listener on port .
+java.net.BindException: Address already in use: Cannot bind
+	at java.net.DualStackPlainDatagramSocketImpl.socketBind(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.bind0(DualStackPlainDatagramSocketImpl.java:84)
+	at java.net.AbstractPlainDatagramSocketImpl.bind(AbstractPlainDatagramSocketImpl.java:93)
+	at java.net.DatagramSocket.bind(DatagramSocket.java:392)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:242)
+	at java.net.DatagramSocket.<init>(DatagramSocket.java:299)
+	at org.snmp4j.transport.DefaultUdpTransportMapping.<init>(DefaultUdpTransportMapping.java:101)
+	at com.netboss.adt.ide.eclipse.simulation.js.TrapReceiver.<init>(TrapReceiver.java:150)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.initAndStartGUI(JsSimulationManager.java:766)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.<init>(JsSimulationManager.java:638)
+	at com.netboss.adt.ide.eclipse.simulation.js.JsSimulationManager.main(JsSimulationManager.java:432)
+2019-11-01 13:43:57,112 [Thread-1] - get(key = SnmpHandler)
+2019-11-01 13:43:57,113 [Thread-1] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-11-01 13:43:57,115 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-11-01 13:43:57,488 [Thread-1] - INFO:Main.js:Name :CiscoInterface.1
+2019-11-01 13:43:57,489 [Thread-1] - INFO:Main.js:DisplayName :CiscoInterface.1
+2019-11-01 13:43:57,489 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:43:57,490 [Thread-1] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:43:57,494 [Thread-1] - INFO:Main.js:Name :CiscoInterface.3
+2019-11-01 13:43:57,495 [Thread-1] - INFO:Main.js:DisplayName :CiscoInterface.3
+2019-11-01 13:43:57,496 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:43:57,496 [Thread-1] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:43:57,497 [Thread-1] - INFO:Main.js:Name :CiscoInterface.4
+2019-11-01 13:43:57,498 [Thread-1] - INFO:Main.js:DisplayName :CiscoInterface.4
+2019-11-01 13:43:57,498 [Thread-1] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:43:57,499 [Thread-1] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:43:57,500 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-11-01 13:43:57,502 [Thread-1] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:43:57,504 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-11-01 13:43:57,504 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-11-01 13:43:57,505 [Thread-1] - MO id = test 
+2019-11-01 13:43:57,509 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for CiscoInterface.1
+2019-11-01 13:43:57,509 [Thread-1] - createActualElement :: Instance = CiscoInterface.1Parent ID  = 0 null
+2019-11-01 13:43:57,509 [Thread-1] - MO id = 2 
+2019-11-01 13:43:57,513 [Thread-1] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:43:57,515 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-11-01 13:43:57,516 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-11-01 13:43:57,516 [Thread-1] - MO id = test 
+2019-11-01 13:43:57,520 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for CiscoInterface.3
+2019-11-01 13:43:57,520 [Thread-1] - createActualElement :: Instance = CiscoInterface.3Parent ID  = 0 null
+2019-11-01 13:43:57,521 [Thread-1] - MO id = 3 
+2019-11-01 13:43:57,524 [Thread-1] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:43:57,526 [Thread-1] - DEBUG:InstrumentationManager :: createInstance():Properties did not contain a parent to create the managed object for
+2019-11-01 13:43:57,527 [Thread-1] - INFO:InstrumentationManager :: createInstance():Parent ID  = 0
+2019-11-01 13:43:57,528 [Thread-1] - MO id = test 
+2019-11-01 13:43:57,529 [Thread-1] - createActualElement ::Properties did not contain a parent to create the managed object for CiscoInterface.4
+2019-11-01 13:43:57,529 [Thread-1] - createActualElement :: Instance = CiscoInterface.4Parent ID  = 0 null
+2019-11-01 13:43:57,529 [Thread-1] - MO id = 4 
+2019-11-01 13:43:57,532 [Thread-1] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-11-01 13:43:57,532 [Thread-1] - get(key = SnmpHandler)
+2019-11-01 13:43:57,533 [Thread-1] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-11-01 13:43:57,533 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-11-01 13:43:57,925 [Thread-1] - INFO:Main.js:Description :FastEthernet0/0
+2019-11-01 13:43:57,926 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,927 [Thread-1] - INFO:Main.js:Type :6
+2019-11-01 13:43:57,927 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,928 [Thread-1] - INFO:Main.js:Mtu :1500
+2019-11-01 13:43:57,928 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,930 [Thread-1] - INFO:Main.js:Speed :100000000
+2019-11-01 13:43:57,930 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,931 [Thread-1] - INFO:Main.js:PhysicalAddress :00:0f:24:af:19:3a
+2019-11-01 13:43:57,931 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,932 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:43:57,932 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,933 [Thread-1] - INFO:Main.js:OperStatus :1
+2019-11-01 13:43:57,933 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,934 [Thread-1] - INFO:Main.js:LastChange :3252
+2019-11-01 13:43:57,934 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,934 [Thread-1] - INFO:Main.js:InOctets :3604328348
+2019-11-01 13:43:57,935 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,935 [Thread-1] - INFO:Main.js:InUcastPkts :20420402
+2019-11-01 13:43:57,936 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,936 [Thread-1] - INFO:Main.js:InDiscards :154
+2019-11-01 13:43:57,937 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,937 [Thread-1] - INFO:Main.js:InError :5
+2019-11-01 13:43:57,938 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,938 [Thread-1] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:43:57,939 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,941 [Thread-1] - INFO:Main.js:OutOctets :590680302
+2019-11-01 13:43:57,942 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,942 [Thread-1] - INFO:Main.js:OutUcastPkts :23503624
+2019-11-01 13:43:57,943 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,944 [Thread-1] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:43:57,945 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,946 [Thread-1] - INFO:Main.js:OutErrors :0
+2019-11-01 13:43:57,947 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:43:57,947 [Thread-1] - INFO:Main.js:Description :Null0
+2019-11-01 13:43:57,948 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,949 [Thread-1] - INFO:Main.js:Type :1
+2019-11-01 13:43:57,949 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,950 [Thread-1] - INFO:Main.js:Mtu :1500
+2019-11-01 13:43:57,951 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,951 [Thread-1] - INFO:Main.js:Speed :4294967295
+2019-11-01 13:43:57,952 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,952 [Thread-1] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:43:57,953 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,953 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:43:57,954 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,954 [Thread-1] - INFO:Main.js:OperStatus :1
+2019-11-01 13:43:57,955 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,955 [Thread-1] - INFO:Main.js:LastChange :0
+2019-11-01 13:43:57,956 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,956 [Thread-1] - INFO:Main.js:InOctets :0
+2019-11-01 13:43:57,959 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,960 [Thread-1] - INFO:Main.js:InUcastPkts :0
+2019-11-01 13:43:57,961 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,961 [Thread-1] - INFO:Main.js:InDiscards :0
+2019-11-01 13:43:57,962 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,962 [Thread-1] - INFO:Main.js:InError :0
+2019-11-01 13:43:57,963 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,963 [Thread-1] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:43:57,964 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,964 [Thread-1] - INFO:Main.js:OutOctets :0
+2019-11-01 13:43:57,965 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,965 [Thread-1] - INFO:Main.js:OutUcastPkts :0
+2019-11-01 13:43:57,966 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,966 [Thread-1] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:43:57,967 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,968 [Thread-1] - INFO:Main.js:OutErrors :0
+2019-11-01 13:43:57,968 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:43:57,969 [Thread-1] - INFO:Main.js:Description :E1 0/0
+2019-11-01 13:43:57,969 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,970 [Thread-1] - INFO:Main.js:Type :18
+2019-11-01 13:43:57,970 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,971 [Thread-1] - INFO:Main.js:Speed :2048000
+2019-11-01 13:43:57,971 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,972 [Thread-1] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:43:57,972 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,973 [Thread-1] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:43:57,973 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,976 [Thread-1] - INFO:Main.js:OperStatus :2
+2019-11-01 13:43:57,976 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,977 [Thread-1] - INFO:Main.js:LastChange :0
+2019-11-01 13:43:57,977 [Thread-1] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:43:57,978 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-11-01 13:43:57,979 [Thread-1] - 
+2019-11-01 13:43:57,980 [Thread-1] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-11-01 13:43:57,980 [Thread-1] - get(key = SnmpHandler)
+2019-11-01 13:43:57,980 [Thread-1] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-11-01 13:43:57,981 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-11-01 13:43:58,055 [Thread-1] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:43:58,056 [Thread-1] - DEBUG:Main.js:SpecificCause :Interface_1 Up
+2019-11-01 13:43:58,057 [Thread-1] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:43:58,057 [Thread-1] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:43:58,058 [Thread-1] - DEBUG:Main.js:State :3
+2019-11-01 13:43:58,058 [Thread-1] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:43:58,059 [Thread-1] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:43:58,059 [Thread-1] - DEBUG:Main.js:Caption :Interface_1 operStatus: 1
+2019-11-01 13:43:58,059 [Thread-1] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:43:58,060 [Thread-1] - DEBUG:Main.js:ManagedObject :Interface_1
+2019-11-01 13:43:58,060 [Thread-1] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:43:58,064 [Thread-1] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:43:58,067 [Thread-1] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0}
+2019-11-01 13:43:58,071 [Thread-1] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:43:58,072 [Thread-0] - Running in shell:true
+2019-11-01 13:43:58,087 [Thread-1] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:43:58,088 [Thread-1] - DEBUG:Main.js:SpecificCause :Interface_3 Up
+2019-11-01 13:43:58,089 [Thread-1] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:43:58,089 [Thread-1] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:43:58,090 [Thread-1] - DEBUG:Main.js:State :3
+2019-11-01 13:43:58,091 [Thread-1] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:43:58,091 [Thread-1] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:43:58,092 [Thread-1] - DEBUG:Main.js:Caption :Interface_3 operStatus: 1
+2019-11-01 13:43:58,092 [Thread-1] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:43:58,093 [Thread-1] - DEBUG:Main.js:ManagedObject :Interface_3
+2019-11-01 13:43:58,094 [Thread-1] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:43:58,095 [Thread-1] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:43:58,099 [Thread-1] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0}
+2019-11-01 13:43:58,105 [Thread-1] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:43:58,106 [Thread-0] - Running in shell:true
+2019-11-01 13:43:58,114 [Thread-1] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:43:58,114 [Thread-1] - DEBUG:Main.js:SpecificCause :Interface_4 Up
+2019-11-01 13:43:58,115 [Thread-1] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:43:58,116 [Thread-1] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:43:58,117 [Thread-1] - DEBUG:Main.js:State :1
+2019-11-01 13:43:58,117 [Thread-1] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:43:58,118 [Thread-1] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:43:58,119 [Thread-1] - DEBUG:Main.js:Caption :Interface_4 operStatus: 2
+2019-11-01 13:43:58,120 [Thread-1] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:43:58,121 [Thread-1] - DEBUG:Main.js:ManagedObject :Interface_4
+2019-11-01 13:43:58,121 [Thread-1] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:43:58,122 [Thread-1] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:43:58,125 [Thread-1] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0}
+2019-11-01 13:43:58,129 [Thread-1] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:43:58,129 [Thread-0] - Running in shell:true
+2019-11-01 13:43:58,138 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-11-01 13:43:58,139 [Thread-1] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 0 alerts
+2019-11-01 13:43:58,140 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:43:58,140 [Thread-1] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:43:58,141 [Thread-1] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-11-01 13:44:24,743 [Thread-80] - get(key = SnmpHandler)
+2019-11-01 13:44:24,744 [Thread-80] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-11-01 13:44:24,744 [Thread-80] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-11-01 13:44:24,776 [Thread-80] - INFO:Main.js:Name :CiscoInterface.1
+2019-11-01 13:44:24,776 [Thread-80] - INFO:Main.js:DisplayName :CiscoInterface.1
+2019-11-01 13:44:24,777 [Thread-80] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:24,778 [Thread-80] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:24,781 [Thread-80] - INFO:Main.js:Name :CiscoInterface.3
+2019-11-01 13:44:24,781 [Thread-80] - INFO:Main.js:DisplayName :CiscoInterface.3
+2019-11-01 13:44:24,782 [Thread-80] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:24,782 [Thread-80] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:24,783 [Thread-80] - INFO:Main.js:Name :CiscoInterface.4
+2019-11-01 13:44:24,783 [Thread-80] - INFO:Main.js:DisplayName :CiscoInterface.4
+2019-11-01 13:44:24,784 [Thread-80] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:24,784 [Thread-80] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:24,785 [Thread-80] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-11-01 13:44:24,786 [Thread-80] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:24,786 [Thread-80] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:24,787 [Thread-80] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:27,088 [Thread-85] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-11-01 13:44:27,088 [Thread-85] - get(key = SnmpHandler)
+2019-11-01 13:44:27,089 [Thread-85] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-11-01 13:44:27,090 [Thread-85] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-11-01 13:44:27,521 [Thread-85] - INFO:Main.js:Description :FastEthernet0/0
+2019-11-01 13:44:27,521 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,522 [Thread-85] - INFO:Main.js:Type :6
+2019-11-01 13:44:27,523 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,524 [Thread-85] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:27,525 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,526 [Thread-85] - INFO:Main.js:Speed :100000000
+2019-11-01 13:44:27,526 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,527 [Thread-85] - INFO:Main.js:PhysicalAddress :00:0f:24:af:19:3a
+2019-11-01 13:44:27,528 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,528 [Thread-85] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:27,529 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,530 [Thread-85] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:27,530 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,533 [Thread-85] - INFO:Main.js:LastChange :3252
+2019-11-01 13:44:27,535 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,536 [Thread-85] - INFO:Main.js:InOctets :3604346241
+2019-11-01 13:44:27,537 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,537 [Thread-85] - INFO:Main.js:InUcastPkts :20420561
+2019-11-01 13:44:27,538 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,538 [Thread-85] - INFO:Main.js:InDiscards :154
+2019-11-01 13:44:27,539 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,540 [Thread-85] - INFO:Main.js:InError :5
+2019-11-01 13:44:27,540 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,541 [Thread-85] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:27,541 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,542 [Thread-85] - INFO:Main.js:OutOctets :590724429
+2019-11-01 13:44:27,542 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,543 [Thread-85] - INFO:Main.js:OutUcastPkts :23503837
+2019-11-01 13:44:27,543 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,545 [Thread-85] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:27,546 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,547 [Thread-85] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:27,548 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:27,550 [Thread-85] - INFO:Main.js:Description :Null0
+2019-11-01 13:44:27,551 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,552 [Thread-85] - INFO:Main.js:Type :1
+2019-11-01 13:44:27,552 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,553 [Thread-85] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:27,553 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,554 [Thread-85] - INFO:Main.js:Speed :4294967295
+2019-11-01 13:44:27,554 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,555 [Thread-85] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:27,556 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,556 [Thread-85] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:27,557 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,557 [Thread-85] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:27,561 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,562 [Thread-85] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:27,562 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,563 [Thread-85] - INFO:Main.js:InOctets :0
+2019-11-01 13:44:27,563 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,564 [Thread-85] - INFO:Main.js:InUcastPkts :0
+2019-11-01 13:44:27,564 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,565 [Thread-85] - INFO:Main.js:InDiscards :0
+2019-11-01 13:44:27,565 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,566 [Thread-85] - INFO:Main.js:InError :0
+2019-11-01 13:44:27,566 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,567 [Thread-85] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:27,568 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,568 [Thread-85] - INFO:Main.js:OutOctets :0
+2019-11-01 13:44:27,568 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,569 [Thread-85] - INFO:Main.js:OutUcastPkts :0
+2019-11-01 13:44:27,569 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,570 [Thread-85] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:27,570 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,571 [Thread-85] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:27,571 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:27,572 [Thread-85] - INFO:Main.js:Description :E1 0/0
+2019-11-01 13:44:27,572 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,573 [Thread-85] - INFO:Main.js:Type :18
+2019-11-01 13:44:27,573 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,573 [Thread-85] - INFO:Main.js:Speed :2048000
+2019-11-01 13:44:27,574 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,574 [Thread-85] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:27,575 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,575 [Thread-85] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:27,576 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,576 [Thread-85] - INFO:Main.js:OperStatus :2
+2019-11-01 13:44:27,577 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,577 [Thread-85] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:27,577 [Thread-85] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:27,578 [Thread-85] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-11-01 13:44:27,578 [Thread-85] - 
+2019-11-01 13:44:30,247 [Thread-148] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-11-01 13:44:30,247 [Thread-148] - get(key = SnmpHandler)
+2019-11-01 13:44:30,248 [Thread-148] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-11-01 13:44:30,248 [Thread-148] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-11-01 13:44:30,322 [Thread-148] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:30,322 [Thread-148] - DEBUG:Main.js:SpecificCause :Interface_1 Up
+2019-11-01 13:44:30,323 [Thread-148] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:30,323 [Thread-148] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:30,324 [Thread-148] - DEBUG:Main.js:State :3
+2019-11-01 13:44:30,324 [Thread-148] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:30,325 [Thread-148] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:30,325 [Thread-148] - DEBUG:Main.js:Caption :Interface_1 operStatus: 1
+2019-11-01 13:44:30,326 [Thread-148] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:30,326 [Thread-148] - DEBUG:Main.js:ManagedObject :Interface_1
+2019-11-01 13:44:30,327 [Thread-148] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:30,327 [Thread-148] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:30,330 [Thread-148] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0}
+2019-11-01 13:44:30,334 [Thread-148] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:30,334 [Thread-0] - Running in shell:true
+2019-11-01 13:44:30,335 [Thread-148] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:30,335 [Thread-148] - DEBUG:Main.js:SpecificCause :Interface_3 Up
+2019-11-01 13:44:30,336 [Thread-148] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:30,337 [Thread-148] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:30,338 [Thread-148] - DEBUG:Main.js:State :3
+2019-11-01 13:44:30,338 [Thread-148] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:30,338 [Thread-148] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:30,339 [Thread-148] - DEBUG:Main.js:Caption :Interface_3 operStatus: 1
+2019-11-01 13:44:30,339 [Thread-148] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:30,339 [Thread-148] - DEBUG:Main.js:ManagedObject :Interface_3
+2019-11-01 13:44:30,340 [Thread-148] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:30,340 [Thread-148] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:30,343 [Thread-148] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0}
+2019-11-01 13:44:30,347 [Thread-148] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:30,347 [Thread-0] - Running in shell:true
+2019-11-01 13:44:30,348 [Thread-148] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:30,348 [Thread-148] - DEBUG:Main.js:SpecificCause :Interface_4 Up
+2019-11-01 13:44:30,348 [Thread-148] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:30,349 [Thread-148] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:30,349 [Thread-148] - DEBUG:Main.js:State :1
+2019-11-01 13:44:30,350 [Thread-148] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:30,350 [Thread-148] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:30,351 [Thread-148] - DEBUG:Main.js:Caption :Interface_4 operStatus: 2
+2019-11-01 13:44:30,353 [Thread-148] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:30,353 [Thread-148] - DEBUG:Main.js:ManagedObject :Interface_4
+2019-11-01 13:44:30,354 [Thread-148] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:30,354 [Thread-148] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:30,357 [Thread-148] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0}
+2019-11-01 13:44:30,361 [Thread-148] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:30,361 [Thread-0] - Running in shell:true
+2019-11-01 13:44:30,362 [Thread-148] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-11-01 13:44:30,362 [Thread-148] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 1 alerts
+2019-11-01 13:44:33,014 [Thread-161] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-11-01 13:44:33,015 [Thread-161] - get(key = SnmpHandler)
+2019-11-01 13:44:33,015 [Thread-161] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-11-01 13:44:33,016 [Thread-161] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-11-01 13:44:33,087 [Thread-161] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:33,087 [Thread-161] - DEBUG:Main.js:SpecificCause :Interface_1 Up
+2019-11-01 13:44:33,088 [Thread-161] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:33,088 [Thread-161] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:33,089 [Thread-161] - DEBUG:Main.js:State :3
+2019-11-01 13:44:33,089 [Thread-161] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:33,090 [Thread-161] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:33,090 [Thread-161] - DEBUG:Main.js:Caption :Interface_1 operStatus: 1
+2019-11-01 13:44:33,091 [Thread-161] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:33,091 [Thread-161] - DEBUG:Main.js:ManagedObject :Interface_1
+2019-11-01 13:44:33,092 [Thread-161] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:33,092 [Thread-161] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:33,095 [Thread-161] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0}
+2019-11-01 13:44:33,099 [Thread-161] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:33,099 [Thread-0] - Running in shell:true
+2019-11-01 13:44:33,100 [Thread-161] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:33,100 [Thread-161] - DEBUG:Main.js:SpecificCause :Interface_3 Up
+2019-11-01 13:44:33,101 [Thread-161] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:33,101 [Thread-161] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:33,102 [Thread-161] - DEBUG:Main.js:State :3
+2019-11-01 13:44:33,102 [Thread-161] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:33,102 [Thread-161] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:33,103 [Thread-161] - DEBUG:Main.js:Caption :Interface_3 operStatus: 1
+2019-11-01 13:44:33,103 [Thread-161] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:33,104 [Thread-161] - DEBUG:Main.js:ManagedObject :Interface_3
+2019-11-01 13:44:33,104 [Thread-161] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:33,105 [Thread-161] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:33,108 [Thread-161] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0}
+2019-11-01 13:44:33,112 [Thread-161] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:33,112 [Thread-0] - Running in shell:true
+2019-11-01 13:44:33,113 [Thread-161] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:33,113 [Thread-161] - DEBUG:Main.js:SpecificCause :Interface_4 Up
+2019-11-01 13:44:33,113 [Thread-161] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:33,114 [Thread-161] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:33,114 [Thread-161] - DEBUG:Main.js:State :1
+2019-11-01 13:44:33,120 [Thread-161] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:33,120 [Thread-161] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:33,121 [Thread-161] - DEBUG:Main.js:Caption :Interface_4 operStatus: 2
+2019-11-01 13:44:33,121 [Thread-161] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:33,122 [Thread-161] - DEBUG:Main.js:ManagedObject :Interface_4
+2019-11-01 13:44:33,125 [Thread-161] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:33,125 [Thread-161] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:33,128 [Thread-161] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0}
+2019-11-01 13:44:33,131 [Thread-161] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:33,132 [Thread-0] - Running in shell:true
+2019-11-01 13:44:33,133 [Thread-161] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-11-01 13:44:33,133 [Thread-161] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 1 alerts
+2019-11-01 13:44:33,934 [Thread-174] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:44:33,935 [Thread-174] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:44:33,936 [Thread-174] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-11-01 13:44:35,166 [Thread-175] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:44:35,167 [Thread-175] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:44:35,168 [Thread-175] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-11-01 13:44:36,399 [Thread-176] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:44:36,399 [Thread-176] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:44:36,400 [Thread-176] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-11-01 13:44:47,231 [Thread-177] - DEBUG:called:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-11-01 13:44:47,231 [Thread-177] - ERROR:Main.js:Secondary attribute = IPAddress
+2019-11-01 13:44:47,232 [Thread-177] - DEBUG:ASSOCIATED_IP=null:AbstractSharedEngineInstMgr::updateAssociatedIpAddresses()
+2019-11-01 13:44:47,232 [Thread-177] - get(key = Logger)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = ContextHelper)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = IndicationHandler)
+2019-11-01 13:44:47,232 [Thread-177] - put(key = ConfigHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$ConfigHandler@4dbfc47c)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = Logger)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = ContextHelper)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = IndicationHandler)
+2019-11-01 13:44:47,232 [Thread-177] - put(key = AlarmHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AlarmHandler@437823bb)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = Logger)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = ContextHelper)
+2019-11-01 13:44:47,232 [Thread-177] - get(key = IndicationHandler)
+2019-11-01 13:44:47,232 [Thread-177] - put(key = AttributeHandler, value = com.cisco.ciscorouter.file.instrumentation.InstrumentationManager$AttributeHandler@4747af0c)
+2019-11-01 13:44:47,233 [Thread-177] - DEBUG:com.cisco.ciscorouter.file.instrumentation.InstrumentationManager::executeScript():Loading script =C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js
+2019-11-01 13:44:47,234 [Thread-177] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-11-01 13:44:47,235 [Thread-177] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-11-01 13:44:47,238 [Thread-177] - sendIndication :: called with {AlertType=4, Description=C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js does not exist, Caption=Missing Script}
+2019-11-01 13:44:47,239 [Thread-177] - current script = this C:\cisco_ciscorouter\server\com\cisco\ciscorouter/file/instrumentation/Main.js currently it is at Main.js DEBUG
+2019-11-01 13:44:47,295 [Thread-177] - DEBUG:InstrumentationManager :: sendSystemAlarm():called
+2019-11-01 13:44:47,296 [Thread-177] - INFO:InstrumentationManager :: sendSystemAlarm():clearing Missing Script alarm
+2019-11-01 13:44:47,302 [Thread-177] - sendIndication :: called with {AlertType=4, Description=C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, ProbableCause=47, UimAlertingManagedElementId=0, State=3, DisplayName=Missing Script, PerceivedSeverity=6, CimAlertingManagedElementId=null, SpecificCause=C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js does not exist, Caption=Missing Script}
+2019-11-01 13:44:47,304 [Thread-177] - ERROR:DEBUG:current script = this C:\cisco_ciscorouter\server\com\cisco\ciscorouter\file\instrumentation\trapUtil.js currently it is at trapUtil.js
+2019-11-01 13:44:47,315 [Thread-178] - get(key = SnmpHandler)
+2019-11-01 13:44:47,322 [Thread-178] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-11-01 13:44:47,324 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-11-01 13:44:47,355 [Thread-178] - INFO:Main.js:Name :CiscoInterface.1
+2019-11-01 13:44:47,355 [Thread-178] - INFO:Main.js:DisplayName :CiscoInterface.1
+2019-11-01 13:44:47,356 [Thread-178] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:47,356 [Thread-178] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:47,357 [Thread-178] - INFO:Main.js:Name :CiscoInterface.3
+2019-11-01 13:44:47,357 [Thread-178] - INFO:Main.js:DisplayName :CiscoInterface.3
+2019-11-01 13:44:47,358 [Thread-178] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:47,358 [Thread-178] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:47,359 [Thread-178] - INFO:Main.js:Name :CiscoInterface.4
+2019-11-01 13:44:47,360 [Thread-178] - INFO:Main.js:DisplayName :CiscoInterface.4
+2019-11-01 13:44:47,360 [Thread-178] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:47,360 [Thread-178] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:47,361 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-11-01 13:44:47,362 [Thread-178] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:47,362 [Thread-178] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:47,363 [Thread-178] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:47,364 [Thread-178] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-11-01 13:44:47,364 [Thread-178] - get(key = SnmpHandler)
+2019-11-01 13:44:47,364 [Thread-178] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-11-01 13:44:47,365 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-11-01 13:44:47,726 [Thread-178] - INFO:Main.js:Description :FastEthernet0/0
+2019-11-01 13:44:47,727 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,727 [Thread-178] - INFO:Main.js:Type :6
+2019-11-01 13:44:47,728 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,728 [Thread-178] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:47,729 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,729 [Thread-178] - INFO:Main.js:Speed :100000000
+2019-11-01 13:44:47,730 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,730 [Thread-178] - INFO:Main.js:PhysicalAddress :00:0f:24:af:19:3a
+2019-11-01 13:44:47,731 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,731 [Thread-178] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:47,732 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,732 [Thread-178] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:47,733 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,733 [Thread-178] - INFO:Main.js:LastChange :3252
+2019-11-01 13:44:47,733 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,734 [Thread-178] - INFO:Main.js:InOctets :3604402852
+2019-11-01 13:44:47,734 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,735 [Thread-178] - INFO:Main.js:InUcastPkts :20420659
+2019-11-01 13:44:47,735 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,736 [Thread-178] - INFO:Main.js:InDiscards :154
+2019-11-01 13:44:47,736 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,736 [Thread-178] - INFO:Main.js:InError :5
+2019-11-01 13:44:47,737 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,737 [Thread-178] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:47,738 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,738 [Thread-178] - INFO:Main.js:OutOctets :590910011
+2019-11-01 13:44:47,739 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,739 [Thread-178] - INFO:Main.js:OutUcastPkts :23503937
+2019-11-01 13:44:47,739 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,740 [Thread-178] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:47,740 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,741 [Thread-178] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:47,741 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:47,742 [Thread-178] - INFO:Main.js:Description :Null0
+2019-11-01 13:44:47,742 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,742 [Thread-178] - INFO:Main.js:Type :1
+2019-11-01 13:44:47,743 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,743 [Thread-178] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:47,744 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,744 [Thread-178] - INFO:Main.js:Speed :4294967295
+2019-11-01 13:44:47,744 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,745 [Thread-178] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:47,745 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,746 [Thread-178] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:47,746 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,746 [Thread-178] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:47,747 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,747 [Thread-178] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:47,748 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,748 [Thread-178] - INFO:Main.js:InOctets :0
+2019-11-01 13:44:47,749 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,749 [Thread-178] - INFO:Main.js:InUcastPkts :0
+2019-11-01 13:44:47,749 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,750 [Thread-178] - INFO:Main.js:InDiscards :0
+2019-11-01 13:44:47,751 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,751 [Thread-178] - INFO:Main.js:InError :0
+2019-11-01 13:44:47,752 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,752 [Thread-178] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:47,753 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,753 [Thread-178] - INFO:Main.js:OutOctets :0
+2019-11-01 13:44:47,754 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,754 [Thread-178] - INFO:Main.js:OutUcastPkts :0
+2019-11-01 13:44:47,754 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,755 [Thread-178] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:47,755 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,756 [Thread-178] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:47,756 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:47,756 [Thread-178] - INFO:Main.js:Description :E1 0/0
+2019-11-01 13:44:47,757 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,757 [Thread-178] - INFO:Main.js:Type :18
+2019-11-01 13:44:47,764 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,765 [Thread-178] - INFO:Main.js:Speed :2048000
+2019-11-01 13:44:47,765 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,766 [Thread-178] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:47,766 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,767 [Thread-178] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:47,767 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,767 [Thread-178] - INFO:Main.js:OperStatus :2
+2019-11-01 13:44:47,768 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,769 [Thread-178] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:47,769 [Thread-178] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:47,770 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-11-01 13:44:47,771 [Thread-178] - 
+2019-11-01 13:44:47,772 [Thread-178] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-11-01 13:44:47,772 [Thread-178] - get(key = SnmpHandler)
+2019-11-01 13:44:47,772 [Thread-178] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-11-01 13:44:47,772 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-11-01 13:44:47,844 [Thread-178] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:47,844 [Thread-178] - DEBUG:Main.js:SpecificCause :Interface_1 Up
+2019-11-01 13:44:47,845 [Thread-178] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:47,845 [Thread-178] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:47,846 [Thread-178] - DEBUG:Main.js:State :3
+2019-11-01 13:44:47,846 [Thread-178] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:47,846 [Thread-178] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:47,847 [Thread-178] - DEBUG:Main.js:Caption :Interface_1 operStatus: 1
+2019-11-01 13:44:47,847 [Thread-178] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:47,848 [Thread-178] - DEBUG:Main.js:ManagedObject :Interface_1
+2019-11-01 13:44:47,848 [Thread-178] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:47,849 [Thread-178] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:47,851 [Thread-178] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0}
+2019-11-01 13:44:47,855 [Thread-178] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:47,855 [Thread-0] - Running in shell:true
+2019-11-01 13:44:47,856 [Thread-178] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:47,856 [Thread-178] - DEBUG:Main.js:SpecificCause :Interface_3 Up
+2019-11-01 13:44:47,857 [Thread-178] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:47,857 [Thread-178] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:47,857 [Thread-178] - DEBUG:Main.js:State :3
+2019-11-01 13:44:47,858 [Thread-178] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:47,858 [Thread-178] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:47,859 [Thread-178] - DEBUG:Main.js:Caption :Interface_3 operStatus: 1
+2019-11-01 13:44:47,859 [Thread-178] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:47,859 [Thread-178] - DEBUG:Main.js:ManagedObject :Interface_3
+2019-11-01 13:44:47,860 [Thread-178] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:47,860 [Thread-178] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:47,863 [Thread-178] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0}
+2019-11-01 13:44:47,867 [Thread-178] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:47,867 [Thread-0] - Running in shell:true
+2019-11-01 13:44:47,868 [Thread-178] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:47,868 [Thread-178] - DEBUG:Main.js:SpecificCause :Interface_4 Up
+2019-11-01 13:44:47,868 [Thread-178] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:47,869 [Thread-178] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:47,869 [Thread-178] - DEBUG:Main.js:State :1
+2019-11-01 13:44:47,869 [Thread-178] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:47,870 [Thread-178] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:47,870 [Thread-178] - DEBUG:Main.js:Caption :Interface_4 operStatus: 2
+2019-11-01 13:44:47,870 [Thread-178] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:47,871 [Thread-178] - DEBUG:Main.js:ManagedObject :Interface_4
+2019-11-01 13:44:47,871 [Thread-178] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:47,872 [Thread-178] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:47,874 [Thread-178] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0}
+2019-11-01 13:44:47,878 [Thread-178] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:47,878 [Thread-0] - Running in shell:true
+2019-11-01 13:44:47,879 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-11-01 13:44:47,880 [Thread-178] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 1 alerts
+2019-11-01 13:44:47,882 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:44:47,883 [Thread-178] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:44:47,884 [Thread-178] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success
+2019-11-01 13:44:50,295 [Thread-257] - get(key = SnmpHandler)
+2019-11-01 13:44:50,296 [Thread-257] - WARN:DefaultConfigHandler :: pollConfig():Device isn't online. Stop polling config
+2019-11-01 13:44:50,297 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Configuration
+2019-11-01 13:44:50,386 [Thread-257] - INFO:Main.js:Name :CiscoInterface.1
+2019-11-01 13:44:50,386 [Thread-257] - INFO:Main.js:DisplayName :CiscoInterface.1
+2019-11-01 13:44:50,387 [Thread-257] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:50,387 [Thread-257] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:50,388 [Thread-257] - INFO:Main.js:Name :CiscoInterface.3
+2019-11-01 13:44:50,388 [Thread-257] - INFO:Main.js:DisplayName :CiscoInterface.3
+2019-11-01 13:44:50,389 [Thread-257] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:50,389 [Thread-257] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:50,390 [Thread-257] - INFO:Main.js:Name :CiscoInterface.4
+2019-11-01 13:44:50,390 [Thread-257] - INFO:Main.js:DisplayName :CiscoInterface.4
+2019-11-01 13:44:50,390 [Thread-257] - INFO:Main.js:ElementType :Grouping
+2019-11-01 13:44:50,391 [Thread-257] - INFO:Main.js:CustomClassName :UIM_CiscoInterface
+2019-11-01 13:44:50,392 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():function Configuration;return= 
+2019-11-01 13:44:50,392 [Thread-257] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:50,393 [Thread-257] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:50,393 [Thread-257] - Instantiation component for UIM_CiscoInterface is not found, use the default one. WARN
+2019-11-01 13:44:50,394 [Thread-257] - Polling Attributes Started DefaultAttributeHandler :: pollAttrs()
+2019-11-01 13:44:50,394 [Thread-257] - get(key = SnmpHandler)
+2019-11-01 13:44:50,395 [Thread-257] - WARN:DefaultAttributeHandler :: pollAttrs():Device isn't online. Stop polling attrs
+2019-11-01 13:44:50,396 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Attributes
+2019-11-01 13:44:50,837 [Thread-257] - INFO:Main.js:Description :FastEthernet0/0
+2019-11-01 13:44:50,838 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,838 [Thread-257] - INFO:Main.js:Type :6
+2019-11-01 13:44:50,839 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,839 [Thread-257] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:50,840 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,840 [Thread-257] - INFO:Main.js:Speed :100000000
+2019-11-01 13:44:50,841 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,842 [Thread-257] - INFO:Main.js:PhysicalAddress :00:0f:24:af:19:3a
+2019-11-01 13:44:50,842 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,843 [Thread-257] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:50,843 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,844 [Thread-257] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:50,844 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,845 [Thread-257] - INFO:Main.js:LastChange :3252
+2019-11-01 13:44:50,845 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,846 [Thread-257] - INFO:Main.js:InOctets :3604447452
+2019-11-01 13:44:50,846 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,847 [Thread-257] - INFO:Main.js:InUcastPkts :20420659
+2019-11-01 13:44:50,847 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,848 [Thread-257] - INFO:Main.js:InDiscards :154
+2019-11-01 13:44:50,848 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,848 [Thread-257] - INFO:Main.js:InError :5
+2019-11-01 13:44:50,849 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,849 [Thread-257] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:50,850 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,850 [Thread-257] - INFO:Main.js:OutOctets :590947336
+2019-11-01 13:44:50,851 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,851 [Thread-257] - INFO:Main.js:OutUcastPkts :23503937
+2019-11-01 13:44:50,852 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,852 [Thread-257] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:50,852 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,853 [Thread-257] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:50,853 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.1
+2019-11-01 13:44:50,854 [Thread-257] - INFO:Main.js:Description :Null0
+2019-11-01 13:44:50,854 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,855 [Thread-257] - INFO:Main.js:Type :1
+2019-11-01 13:44:50,855 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,855 [Thread-257] - INFO:Main.js:Mtu :1500
+2019-11-01 13:44:50,856 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,856 [Thread-257] - INFO:Main.js:Speed :4294967295
+2019-11-01 13:44:50,857 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,857 [Thread-257] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:50,858 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,858 [Thread-257] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:50,859 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,862 [Thread-257] - INFO:Main.js:OperStatus :1
+2019-11-01 13:44:50,863 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,863 [Thread-257] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:50,864 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,864 [Thread-257] - INFO:Main.js:InOctets :0
+2019-11-01 13:44:50,865 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,865 [Thread-257] - INFO:Main.js:InUcastPkts :0
+2019-11-01 13:44:50,866 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,866 [Thread-257] - INFO:Main.js:InDiscards :0
+2019-11-01 13:44:50,867 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,867 [Thread-257] - INFO:Main.js:InError :0
+2019-11-01 13:44:50,868 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,868 [Thread-257] - INFO:Main.js:InUnknownProtos :0
+2019-11-01 13:44:50,869 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,869 [Thread-257] - INFO:Main.js:OutOctets :0
+2019-11-01 13:44:50,870 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,870 [Thread-257] - INFO:Main.js:OutUcastPkts :0
+2019-11-01 13:44:50,871 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,871 [Thread-257] - INFO:Main.js:OutDiscards :0
+2019-11-01 13:44:50,872 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,872 [Thread-257] - INFO:Main.js:OutErrors :0
+2019-11-01 13:44:50,873 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.3
+2019-11-01 13:44:50,873 [Thread-257] - INFO:Main.js:Description :E1 0/0
+2019-11-01 13:44:50,874 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,874 [Thread-257] - INFO:Main.js:Type :18
+2019-11-01 13:44:50,875 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,875 [Thread-257] - INFO:Main.js:Speed :2048000
+2019-11-01 13:44:50,875 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,876 [Thread-257] - INFO:Main.js:PhysicalAddress :
+2019-11-01 13:44:50,876 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,877 [Thread-257] - INFO:Main.js:AdminStatus :1
+2019-11-01 13:44:50,877 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,878 [Thread-257] - INFO:Main.js:OperStatus :2
+2019-11-01 13:44:50,878 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,879 [Thread-257] - INFO:Main.js:LastChange :0
+2019-11-01 13:44:50,879 [Thread-257] - INFO:InstrumentationManager :: getInstanceID():Name lookup for CiscoInterface.4
+2019-11-01 13:44:50,880 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():function Attributes;return= Success
+2019-11-01 13:44:50,880 [Thread-257] - 
+2019-11-01 13:44:50,881 [Thread-257] - Polling Alarms Started DefaultAlarmHandler :: pollAllAlarms()
+2019-11-01 13:44:50,881 [Thread-257] - get(key = SnmpHandler)
+2019-11-01 13:44:50,882 [Thread-257] - WARN:DefaultAlarmHandler :: pollAllAlarms():Device isn't online. Stop polling alarms
+2019-11-01 13:44:50,883 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Alarm
+2019-11-01 13:44:50,955 [Thread-257] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:50,956 [Thread-257] - DEBUG:Main.js:SpecificCause :Interface_1 Up
+2019-11-01 13:44:50,956 [Thread-257] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:50,957 [Thread-257] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:50,958 [Thread-257] - DEBUG:Main.js:State :3
+2019-11-01 13:44:50,958 [Thread-257] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:50,958 [Thread-257] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:50,959 [Thread-257] - DEBUG:Main.js:Caption :Interface_1 operStatus: 1
+2019-11-01 13:44:50,959 [Thread-257] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:50,960 [Thread-257] - DEBUG:Main.js:ManagedObject :Interface_1
+2019-11-01 13:44:50,960 [Thread-257] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:50,961 [Thread-257] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:50,963 [Thread-257] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0}
+2019-11-01 13:44:50,968 [Thread-257] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_1 Up, Caption=Interface_1 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_1, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:50,968 [Thread-0] - Running in shell:true
+2019-11-01 13:44:50,969 [Thread-257] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:50,969 [Thread-257] - DEBUG:Main.js:SpecificCause :Interface_3 Up
+2019-11-01 13:44:50,970 [Thread-257] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:50,970 [Thread-257] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:50,971 [Thread-257] - DEBUG:Main.js:State :3
+2019-11-01 13:44:50,971 [Thread-257] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:50,972 [Thread-257] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:50,972 [Thread-257] - DEBUG:Main.js:Caption :Interface_3 operStatus: 1
+2019-11-01 13:44:50,973 [Thread-257] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:50,973 [Thread-257] - DEBUG:Main.js:ManagedObject :Interface_3
+2019-11-01 13:44:50,973 [Thread-257] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:50,974 [Thread-257] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:50,976 [Thread-257] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0}
+2019-11-01 13:44:50,980 [Thread-257] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_3 Up, Caption=Interface_3 operStatus: 1, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=3, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_3, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:50,980 [Thread-0] - Running in shell:true
+2019-11-01 13:44:50,981 [Thread-257] - DEBUG:Main.js:Clearable :true
+2019-11-01 13:44:50,981 [Thread-257] - DEBUG:Main.js:SpecificCause :Interface_4 Up
+2019-11-01 13:44:50,982 [Thread-257] - DEBUG:Main.js:ProbableCause :1
+2019-11-01 13:44:50,982 [Thread-257] - DEBUG:Main.js:AlertType :2
+2019-11-01 13:44:50,983 [Thread-257] - DEBUG:Main.js:State :1
+2019-11-01 13:44:50,983 [Thread-257] - DEBUG:Main.js:DisplayName :Interface Alarm
+2019-11-01 13:44:50,990 [Thread-257] - DEBUG:Main.js:Description :Interface Up alarm(AdminStatus)
+2019-11-01 13:44:50,991 [Thread-257] - DEBUG:Main.js:Caption :Interface_4 operStatus: 2
+2019-11-01 13:44:50,991 [Thread-257] - DEBUG:Main.js:PerceivedSeverity :5
+2019-11-01 13:44:50,991 [Thread-257] - DEBUG:Main.js:ManagedObject :Interface_4
+2019-11-01 13:44:50,992 [Thread-257] - DEBUG:Main.js:Name :Interface_Down
+2019-11-01 13:44:50,993 [Thread-257] - WARN:InstrumentationManager :: sendAlarm():Lookup of ManagedObject did not return an instance id
+2019-11-01 13:44:50,995 [Thread-257] - sendIndication :: called with {Description=Interface Up alarm(AdminStatus), PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0}
+2019-11-01 13:44:50,999 [Thread-257] - sendIndication :: modified map {FQN=TopLevel, Description=Interface Up alarm(AdminStatus), AlertName=Interface_Down, PerceivedSeverity=5, SpecificCause=Interface_4 Up, Caption=Interface_4 operStatus: 2, Name=Interface_Down, Clearable=true, AlertType=2, ProbableCause=1, State=1, DisplayName=Interface Alarm, UserResponsible=Device, AlertingManagedElementNameExtension=Interface_4, CimAlertingManagedElementId=0, AlertingManagedElementDisplayName=TopLevel}
+2019-11-01 13:44:50,999 [Thread-0] - Running in shell:true
+2019-11-01 13:44:51,000 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():function Alarm;return= Success
+2019-11-01 13:44:51,000 [Thread-257] - INFO:InstrumentationManager :: reconcileAlarms():Clearing 1 alerts
+2019-11-01 13:44:51,002 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():Running Function =Performance
+2019-11-01 13:44:51,002 [Thread-257] - DEBUG:InstrumentationManager :: executeFunction():function Performance;return= Success
+2019-11-01 13:44:51,003 [Thread-257] - DEBUG:InstrumentationManager :: pollAllPerformance():Performance Poll returned Success

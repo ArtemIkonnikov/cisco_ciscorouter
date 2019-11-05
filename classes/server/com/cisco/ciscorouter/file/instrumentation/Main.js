@@ -40,7 +40,7 @@ function Alarm() {
 			ifAlarm.IfIndex = result[index].IfIndex;
 			
 			var state = 3 ;
-			if(ifAlarm.IfOperStatus > 1){state = 1}
+			if(ifAlarm.IfAdminStatus == 1 && ifAlarm.IfOperStatus == 2){state = 1}
 			
 				functionSendAlarm(ifAlarm,state);
 		}
@@ -81,7 +81,7 @@ function Attributes() {
 		return undefined;
 	}
 	
-	var managedObject = "UIM_CiscoInterface." + result[index].Index;
+	var managedObject = "CiscoInterface." + result[index].Index;
 	
 	if (result[index].Description != undefined){
 		updateElement(managedObject,{
@@ -230,7 +230,7 @@ function TrapParser(trapId, varbinds, alarmId) {
 		ifTrap.IfOperStatus = ifOperStatus;
 		
 		var state = 3 ;
-		if(ifOperStatus > 1){state = 1}
+		if(ifTrap.IfAdminStatus == 1 && ifTrap.IfOperStatus == 2){state = 1}
 		
 		functionSendAlarm(ifTrap,state);
 		
@@ -256,7 +256,7 @@ function functionSendAlarm(alarmObject,state) {
 			"Description": "Interface " + adminMsg[alarmObject['IfAdminStatus']] + " alarm(AdminStatus)",
 			"Caption": "Interface_" + alarmObject['IfIndex'] + " operStatus: " + alarmObject['IfOperStatus'],
 			"PerceivedSeverity": 5,					
-			"ManagedObject": "Interface_" + alarmObject['IfIndex'],
+			"ManagedObject": "CiscoInterface." + alarmObject['IfIndex'],
 			"Name": "Interface_Down"
 		});
 }
